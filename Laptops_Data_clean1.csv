@@ -1,0 +1,1303 @@
+,Company,Memory_Structure_Categories,Gpu_Type,Gpu_Company,OpSys,Cpu_Company,Inches,CPU_Frequency_Numeric,Ram_Numeric,Size_Numeric,Weight_Numeric,Price_dollars
+0,Asus,Hybrid,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.9,32 MB,512MB,4.7,4279$
+1,Lenovo,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,32 MB,512MB,4.6,3564$
+2,Lenovo,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,256MB,4.6,3025$
+3,Lenovo,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.7,32 MB,256MB,4.6,2929$
+4,Lenovo,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,128MB,4.6,2519$
+5,MSI,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,128MB,4.5,2584$
+6,Dell,Hybrid,GeForce GTX 1070M,Nvidia,Windows 10,Intel,17.3,2.8,32 MB,1000MB,4.42,3948$
+7,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,32 MB,256MB,4.42,3464$
+8,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,32 MB,512MB,4.42,3462$
+9,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,32 MB,512MB,4.42,3380$
+10,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,128MB,4.42,3314$
+11,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,4.42,3156$
+12,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.6,32 MB,256MB,4.42,3080$
+13,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.9,16 MB,256MB,4.42,3079$
+14,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,4.42,2969$
+15,Dell,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,4.42,2702$
+16,Dell,HDD,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.7,8 MB,1000MB,4.42,2251$
+17,MSI,Hybrid,GTX 980 SLI,Nvidia,Windows 10,Intel,18.4,2.9,32 MB,512MB,4.4,3079$
+18,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,32 MB,1000MB,4.36,4025$
+19,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,512MB,4.36,3469$
+20,Dell,Hybrid,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,512MB,4.36,3034$
+21,Dell,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,128MB,4.36,2756$
+22,Asus,Hybrid,GeForce GTX 965M,Nvidia,Windows 10,Intel,17.3,2.6,24 MB,256MB,4.33,1396$
+23,Asus,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,256MB,4.3,2585$
+24,Asus,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,128MB,4.3,2529$
+25,Asus,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,512MB,4.3,2365$
+26,Asus,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,4.3,1979$
+27,Acer,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,4.2,2859$
+28,Acer,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,4.2,2529$
+29,Acer,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,128MB,4.2,2129$
+30,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.9,16 MB,512MB,4.14,3002$
+31,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,512MB,4.14,2749$
+32,MSI,Hybrid,GeForce GTX 970M,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,128MB,4.14,2419$
+33,Asus,Hybrid,GeForce GTX 970M,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,128MB,4,2090$
+34,Asus,HDD,GeForce GTX 965M,Nvidia,No OS,Intel,17.3,2.6,16 MB,1000MB,4,1098$
+35,Asus,SSD,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.7,32 MB,512MB,3.8,3079$
+36,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,3.78,2749$
+37,MSI,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,256MB,3.78,2639$
+38,HP,HDD,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,12 MB,1000MB,3.78,1869$
+39,MSI,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,256MB,3.78,1700$
+40,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,3.78,1648$
+41,HP,HDD,Radeon RX 580,AMD,Windows 10,Intel,17.3,2.8,12 MB,1000MB,3.74,1924$
+42,Asus,SSD,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.9,16 MB,256MB,3.6,3299$
+43,Asus,SSD,GeForce GTX 980 ,Nvidia,Windows 10,Intel,17.3,2.7,64 MB,1000MB,3.58,4373$
+44,Asus,SSD,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,32 MB,256MB,3.58,1407$
+45,Asus,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,17.3,2.6,8 MB,128MB,3.52,1444$
+46,Razer,SSD,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.9,32 MB,1000MB,3.49,6709$
+47,Razer,SSD,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.9,32 MB,512MB,3.49,6049$
+48,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.9,16 MB,256MB,3.49,3095$
+49,Dell,SSD,Quadro M1200,Nvidia,Windows 10,Intel,17.3,2.9,16 MB,256MB,3.42,3173$
+50,Lenovo,SSD,Quadro M620M,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,256MB,3.4,3299$
+51,HP,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,12 MB,256MB,3.35,2199$
+52,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,3.35,1517$
+53,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,128MB,3.35,1310$
+54,HP,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.3,8 MB,128MB,3.35,1242$
+55,Lenovo,SSD,GeForce GTX 960,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,512MB,3.31,1436$
+56,Lenovo,Hybrid,GeForce GTX 960,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,128MB,3.31,1316$
+57,Acer,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,17.3,2,8 MB,1000MB,3.3,692$
+58,Acer,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,17.3,2,4 MB,1000MB,3.3,658$
+59,Asus,Hybrid,Radeon RX 580,AMD,Windows 10,AMD,17.3,3,16 MB,256MB,3.25,2419$
+60,Dell,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,3.21,3052$
+61,Dell,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.5,16 MB,128MB,3.21,2256$
+62,Dell,Hybrid,GeForce GTX 970M,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,256MB,3.21,1462$
+63,Lenovo,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,3.2,1924$
+64,Asus,Hybrid,Radeon RX 580,AMD,Windows 10,AMD,17.3,3.2,8 MB,256MB,3.2,1865$
+65,Asus,Hybrid,Radeon RX 580,AMD,Windows 10,AMD,17.3,3,16 MB,256MB,3.2,1704$
+66,Lenovo,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,3.2,1649$
+67,Lenovo,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,3.2,1539$
+68,Lenovo,HDD,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,3.2,1429$
+69,Asus,Hybrid,Radeon RX 580,AMD,Windows 10,AMD,17.3,3,8 MB,256MB,3.2,1429$
+70,HP,SSD,Quadro M2200,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,3.14,2271$
+71,HP,HDD,Quadro M1200,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,500MB,3.14,2099$
+72,HP,HDD,Quadro M1200,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,500MB,3.14,2047$
+73,HP,SSD,Quadro M2000M,Nvidia,Windows 7,Intel,17.3,2.9,16 MB,256MB,3,4828$
+74,HP,SSD,Quadro M3000M,Nvidia,Windows 7,Intel,17.3,2.6,8 MB,256MB,3,4344$
+75,HP,HDD,FirePro W6150M,AMD,Windows 7,Intel,17.3,2.6,8 MB,1000MB,3,3189$
+76,Asus,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,3,1750$
+77,Asus,Hybrid,GeForce GTX1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,3,1654$
+78,Asus,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,1000MB,3,1306$
+79,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,128MB,3,1285$
+80,Asus,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,1000MB,3,1143$
+81,Acer,SSD,GeForce MX150,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,256MB,3,1046$
+82,Asus,HDD,GeForce GTX 1050 Ti,Nvidia,Linux,Intel,17.3,2.8,12 MB,1000MB,3,1044$
+83,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.5,8 MB,128MB,3,1032$
+84,Acer,SSD,GeForce MX150,Nvidia,Windows 10,Intel,17.3,1.6,8 MB,256MB,3,939$
+85,Acer,SSD,GeForce MX150,Nvidia,Windows 10,Intel,17.3,1.6,4 MB,256MB,3,886$
+86,Acer,SSD,GeForce MX130,Nvidia,Windows 10,Intel,17.3,2.7,4 MB,256MB,3,772$
+87,Lenovo,HDD,Radeon R5 M330,AMD,Windows 10,Intel,17.3,2.3,8 MB,1000MB,3,725$
+88,Acer,HDD,GeForce MX130,Nvidia,Windows 10,Intel,17.3,2.7,4 MB,1000MB,3,721$
+89,Asus,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.99,1924$
+90,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.94,2495$
+91,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,256MB,2.94,2001$
+92,Asus,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.9,2661$
+93,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,512MB,2.9,2657$
+94,Asus,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.9,2334$
+95,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.9,2232$
+96,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.9,2144$
+97,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.9,1682$
+98,MSI,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,17.3,2.6,8 MB,128MB,2.9,1662$
+99,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.9,1548$
+100,HP,HDD,GeForce MX150,Nvidia,Windows 10,Intel,17.3,1.8,16 MB,1000MB,2.9,1165$
+101,Dell,HDD,Radeon R7 M445,AMD,Linux,Intel,17.3,2.7,8 MB,1000MB,2.83,952$
+102,Dell,Hybrid,Quadro M1200,Nvidia,Windows 10,Intel,15.6,3,16 MB,256MB,2.8,3361$
+103,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,16 MB,512MB,2.8,2684$
+104,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.8,2474$
+105,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.8,2309$
+106,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.8,2079$
+107,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,17.3,1.8,16 MB,256MB,2.8,1536$
+108,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,17.3,1.8,16 MB,256MB,2.8,1429$
+109,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,17.3,1.8,8 MB,128MB,2.8,1256$
+110,Dell,Hybrid,Radeon 530,AMD,Linux,Intel,17.3,1.8,8 MB,128MB,2.8,1209$
+111,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,17.3,1.6,8 MB,128MB,2.8,1194$
+112,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,17.3,1.8,8 MB,128MB,2.8,1194$
+113,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,17.3,1.6,8 MB,128MB,2.8,1077$
+114,Lenovo,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,17.3,2.7,6 MB,128MB,2.8,1044$
+115,Dell,Hybrid,Radeon 530,AMD,Linux,Intel,17.3,1.6,8 MB,128MB,2.8,978$
+116,Lenovo,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,17.3,2.7,6 MB,128MB,2.8,945$
+117,Lenovo,HDD,GeForce MX150,Nvidia,No OS,Intel,17.3,1.8,8 MB,2000MB,2.8,934$
+118,Lenovo,Hybrid,GeForce GTX 940MX,Nvidia,Windows 10,Intel,17.3,2.5,6 MB,128MB,2.8,791$
+119,Lenovo,SSD,GeForce MX150,Nvidia,No OS,Intel,17.3,1.6,8 MB,256MB,2.8,768$
+120,Lenovo,HDD,GeForce GTX 940M,Nvidia,Windows 10,Intel,17.3,2.5,6 MB,1000MB,2.8,714$
+121,Lenovo,HDD,GeForce GTX 940MX,Nvidia,No OS,Intel,17.3,2.5,8 MB,1000MB,2.8,648$
+122,Lenovo,HDD,HD Graphics 620,Intel,No OS,Intel,17.3,2.5,8 MB,1000MB,2.8,593$
+123,Asus,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,17.3,1.6,4 MB,1000MB,2.8,583$
+124,Lenovo,HDD,HD Graphics 520,Intel,No OS,Intel,17.3,2,4 MB,500MB,2.8,582$
+125,Lenovo,HDD,Radeon R4,AMD,Windows 10,AMD,17.3,2.5,8 MB,1000MB,2.8,571$
+126,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,17.3,2,4 MB,1000MB,2.8,538$
+127,Asus,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,17.3,1.1,4 MB,1000MB,2.8,517$
+128,Asus,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,17.3,1.1,4 MB,1000MB,2.8,513$
+129,Lenovo,HDD,Radeon R3,AMD,Windows 10,AMD,17.3,2.2,4 MB,500MB,2.8,417$
+130,Lenovo,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,17.3,2.5,4 MB,1000MB,2.79,648$
+131,Dell,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,17.3,2.7,16 MB,512MB,2.77,1979$
+132,Dell,SSD,GeForce 150MX,Nvidia,Windows 10,Intel,17.3,1.8,16 MB,512MB,2.77,1704$
+133,Dell,HDD,GeForce 150MX,Nvidia,Windows 10,Intel,17.3,1.6,12 MB,1000MB,2.77,1099$
+134,HP,Hybrid,GeForce GTX 965M,Nvidia,Windows 10,Intel,17.3,2.3,8 MB,128MB,2.75,1539$
+135,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.73,2255$
+136,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,512MB,2.73,1979$
+137,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.5,8 MB,128MB,2.73,1947$
+138,Dell,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,128MB,2.72,1209$
+139,HP,HDD,Radeon 520,AMD,Windows 10,Intel,17.3,2.5,6 MB,2000MB,2.71,769$
+140,HP,HDD,Radeon 530,AMD,Windows 10,AMD,17.3,2.5,6 MB,2000MB,2.71,721$
+141,HP,HDD,Radeon 530,AMD,Windows 10,AMD,17.3,2.5,4 MB,500MB,2.71,483$
+142,MSI,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.7,1759$
+143,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,256MB,2.7,1759$
+144,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.7,1758$
+145,MSI,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.7,1642$
+146,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,128MB,2.7,1635$
+147,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,128MB,2.7,1550$
+148,MSI,SSD,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,256MB,2.7,1484$
+149,MSI,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,128MB,2.7,1483$
+150,Acer,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.7,1386$
+151,MSI,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,256MB,2.7,1319$
+152,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.8,8 MB,128MB,2.7,1311$
+153,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.5,8 MB,128MB,2.7,1205$
+154,Asus,Hybrid,GeForce GTX 950M,Nvidia,Windows 10,Intel,17.3,2.5,8 MB,256MB,2.69,980$
+155,Asus,Hybrid,GeForce GTX 950M,Nvidia,No OS,Intel,17.3,2.7,8 MB,128MB,2.69,978$
+156,Lenovo,SSD,Quadro M2200M,Nvidia,Windows 10,Intel,15.6,2.9,8 MB,256MB,2.67,2299$
+157,Lenovo,SSD,Quadro M1200,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,512MB,2.67,2118$
+158,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.67,879$
+159,Dell,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.65,2030$
+160,Dell,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.65,1649$
+161,Dell,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,128MB,2.65,1484$
+162,Dell,SSD,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.65,1315$
+163,Dell,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.65,1099$
+164,Dell,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.65,1044$
+165,HP,HDD,Radeon R7 M440,AMD,Windows 10,AMD,17.3,2.4,6 MB,2000MB,2.65,626$
+166,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,17.3,2,8 MB,1000MB,2.65,599$
+167,Asus,HDD,HD Graphics 405,Intel,Windows 10,Intel,15.6,1.6,4 MB,1000MB,2.65,340$
+168,HP,HDD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,2.7,8 MB,1000MB,2.63,1408$
+169,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,2.7,8 MB,256MB,2.63,1320$
+170,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,2.5,8 MB,256MB,2.63,1188$
+171,HP,HDD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,2.5,8 MB,1000MB,2.63,1001$
+172,HP,HDD,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,12 MB,1000MB,2.62,1979$
+173,Dell,SSD,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.62,1847$
+174,Dell,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.62,1648$
+175,Dell,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.62,1627$
+176,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,12 MB,128MB,2.62,1374$
+177,Dell,HDD,GeForce GTX 1050Ti,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,2.62,1319$
+178,Dell,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.62,1275$
+179,Dell,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,2.62,1209$
+180,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.62,1084$
+181,Dell,HDD,GeForce GTX 1050Ti,Nvidia,Linux,Intel,15.6,2.8,8 MB,1000MB,2.62,1022$
+182,HP,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,2.62,989$
+183,Dell,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,2.62,989$
+184,HP,SSD,Quadro M2200,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.6,2661$
+185,HP,SSD,Quadro M1200,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,2.6,1912$
+186,MSI,SSD,GeForce GTX 965M,Nvidia,Windows 10,Intel,17.3,2.6,8 MB,256MB,2.6,1759$
+187,Dell,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,128MB,2.6,1484$
+188,Lenovo,Hybrid,GeForce GTX 960<U+039C>,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,128MB,2.6,1399$
+189,Lenovo,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,128MB,2.6,1132$
+190,Lenovo,HDD,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,1000MB,2.6,989$
+191,Lenovo,HDD,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,1000MB,2.6,989$
+192,Lenovo,HDD,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,1000MB,2.6,989$
+193,Lenovo,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.3,8 MB,128MB,2.6,868$
+194,HP,HDD,Radeon R5,AMD,Windows 10,AMD,17,3,8 MB,1000MB,2.6,573$
+195,Lenovo,SSD,Radeon R5,AMD,Windows 10,AMD,17.3,2.2,4 MB,128MB,2.6,538$
+196,Asus,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,256MB,2.591,1000$
+197,HP,SSD,Quadro M1000M,Nvidia,Windows 7,Intel,15.6,2.6,8 MB,256MB,2.59,2452$
+198,HP,SSD,Quadro M1000M,Nvidia,Windows 7,Intel,15.6,2.6,8 MB,256MB,2.59,1717$
+199,Asus,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,128MB,2.59,1473$
+200,Dell,HDD,GeForce GTX 960<U+039C>,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,1000MB,2.59,967$
+201,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.56,1374$
+202,Dell,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.56,1167$
+203,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.56,967$
+204,Dell,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.56,901$
+205,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,17.3,2,8 MB,1000MB,2.54,538$
+206,Lenovo,SSD,Quadro M2200M,Nvidia,Windows 10,Intel,15.6,3.1,32 MB,1000MB,2.5,5389$
+207,Lenovo,SSD,Quadro M520M,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,1000MB,2.5,3629$
+208,Lenovo,SSD,Quadro M2200M,Nvidia,Windows 10,Intel,15.6,2.9,16 MB,512MB,2.5,2694$
+209,Lenovo,SSD,Quadro M2000M,Nvidia,Windows 7,Intel,15.6,2.7,16 MB,512MB,2.5,2607$
+210,Asus,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.5,1979$
+211,Samsung,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,128MB,2.5,1869$
+212,Asus,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.5,1760$
+213,Acer,SSD,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.5,16 MB,256MB,2.5,1429$
+214,HP,SSD,GeForce 930MX ,Nvidia,Windows 10,Intel,17.3,1.8,16 MB,512MB,2.5,1398$
+215,Asus,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.5,1392$
+216,Lenovo,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.5,1374$
+217,Lenovo,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.5,1308$
+218,Lenovo,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.5,1297$
+219,Asus,HDD,GeForce GTX 1050 Ti,Nvidia,No OS,Intel,15.6,2.8,8 MB,1000MB,2.5,1286$
+220,Lenovo,Hybrid,GeForce GTX 1050M,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.5,1220$
+221,Lenovo,Hybrid,Radeon R7 M360,AMD,Windows 10,Intel,15.6,2.5,16 MB,1000MB,2.5,1209$
+222,Lenovo,SSD,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.5,1187$
+223,Lenovo,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.5,1153$
+224,HP,SSD,GeForce 930MX ,Nvidia,Windows 10,Intel,17.3,1.8,8 MB,256MB,2.5,1150$
+225,HP,HDD,GeForce 930MX ,Nvidia,Windows 10,Intel,17.3,1.8,8 MB,1000MB,2.5,1120$
+226,Lenovo,HDD,GeForce GTX 1050,Nvidia,No OS,Intel,15.6,2.5,8 MB,1000MB,2.5,1119$
+227,Asus,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,2.5,1099$
+228,Lenovo,Hybrid,Radeon R9 M385,AMD,Windows 10,AMD,15.6,2.1,16 MB,512MB,2.5,1099$
+229,Lenovo,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.5,1099$
+230,Acer,SSD,GeForce GTX 1050 Ti,Nvidia,Linux,Intel,15.6,2.8,8 MB,256MB,2.5,1077$
+231,HP,Hybrid,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,1.6,8 MB,128MB,2.5,1075$
+232,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,17.3,1.6,8 MB,256MB,2.5,1021$
+233,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,1.6,8 MB,256MB,2.5,1015$
+234,HP,HDD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,1.6,8 MB,1000MB,2.5,1005$
+235,HP,HDD,GeForce 930MX,Nvidia,Windows 10,Intel,17.3,1.6,8 MB,1000MB,2.5,986$
+236,Acer,SSD,GeForce GTX 1050,Nvidia,Linux,Intel,15.6,2.8,8 MB,256MB,2.5,967$
+237,Acer,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.5,931$
+238,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.5,923$
+239,Lenovo,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.5,912$
+240,Lenovo,Hybrid,Radeon R5 M330,AMD,Windows 10,Intel,15.6,2.3,8 MB,1000MB,2.5,867$
+241,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.5,862$
+242,HP,SSD,Radeon R5 520,AMD,Windows 10,Intel,17.3,2,4 MB,256MB,2.5,769$
+243,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,17.3,2,8 MB,256MB,2.5,704$
+244,Asus,HDD,Radeon RX 560,AMD,Windows 10,AMD,15.6,3,8 MB,1000MB,2.45,769$
+245,Asus,HDD,GeForce GTX 950M,Nvidia,No OS,Intel,15.6,2.3,4 MB,1000MB,2.45,637$
+246,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,512MB,2.43,2914$
+247,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.43,2694$
+248,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.8,16 MB,256MB,2.43,2254$
+249,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,17.3,2.6,16 MB,256MB,2.43,2144$
+250,Lenovo,SSD,Quadro 3000M,Nvidia,Windows 7,Intel,17.3,2.7,16 MB,512MB,2.4,3265$
+251,Toshiba,SSD,GeForce 930M,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,256MB,2.4,2173$
+252,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.4,1979$
+253,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.3,4 MB,128MB,2.4,1759$
+254,Toshiba,SSD,GeForce 930M,Nvidia,Windows 10,Intel,15.6,2.5,16 MB,256MB,2.4,1568$
+255,Toshiba,SSD,GeForce 930M,Nvidia,Windows 10,Intel,15.6,2.5,16 MB,512MB,2.4,1543$
+256,Lenovo,SSD,GeForce GTX 1060,Nvidia,No OS,Intel,15.6,2.8,16 MB,512MB,2.4,1538$
+257,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.4,1423$
+258,MSI,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,128MB,2.4,1352$
+259,MSI,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.4,1319$
+260,Lenovo,SSD,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.4,1319$
+261,Lenovo,Hybrid,GeForce GTX 1060,Nvidia,No OS,Intel,15.6,2.8,8 MB,256MB,2.4,1264$
+262,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.4,1257$
+263,Lenovo,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.4,1242$
+264,Acer,Hybrid,GeForce GTX 950M,Nvidia,Windows 10,Intel,15.6,2.5,12 MB,128MB,2.4,1110$
+265,Lenovo,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,4 MB,1000MB,2.4,1099$
+266,Lenovo,Hybrid,GeForce GTX 1060,Nvidia,No OS,Intel,15.6,2.5,8 MB,128MB,2.4,1088$
+267,Lenovo,SSD,GeForce GTX 1050M,Nvidia,No OS,Intel,15.6,2.8,8 MB,256MB,2.4,956$
+268,Acer,HDD,GeForce GTX 1050,Nvidia,Linux,Intel,15.6,2.8,8 MB,1000MB,2.4,931$
+269,Lenovo,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.4,901$
+270,Lenovo,Hybrid,GeForce GTX 1050,Nvidia,No OS,Intel,15.6,2.5,8 MB,128MB,2.4,890$
+271,Acer,Hybrid,GeForce GTX 950M,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.4,879$
+272,Acer,HDD,GeForce GTX 1050,Nvidia,Linux,Intel,15.6,2.5,8 MB,1000MB,2.4,878$
+273,Acer,HDD,GeForce GTX 1050,Nvidia,Linux,Intel,15.6,2.8,8 MB,1000MB,2.4,857$
+274,Lenovo,SSD,GeForce GTX 1050,Nvidia,No OS,Intel,15.6,2.5,8 MB,256MB,2.4,857$
+275,Acer,HDD,GeForce GTX 1050,Nvidia,Linux,Intel,15.6,2.5,8 MB,1000MB,2.4,780$
+276,Lenovo,SSD,GeForce 920MX,Nvidia,Windows 10,Intel,15.6,2.5,6 MB,256MB,2.4,765$
+277,Lenovo,HDD,GeForce 920M,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.4,670$
+278,Lenovo,SSD,GeForce 920MX,Nvidia,Windows 10,Intel,15.6,2.3,6 MB,128MB,2.4,626$
+279,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,6 MB,1000MB,2.4,620$
+280,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.4,615$
+281,Lenovo,HDD,Radeon R5 430,AMD,Windows 10,AMD,15.6,2.4,6 MB,1000MB,2.4,549$
+282,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,1000MB,2.4,549$
+283,Acer,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,2.4,495$
+284,Acer,HDD,Radeon R5,AMD,Windows 10,AMD,15.6,2.2,8 MB,1000MB,2.4,494$
+285,Acer,HDD,HD Graphics 620,Intel,Linux,Intel,15.6,2.5,4 MB,500MB,2.4,486$
+286,Acer,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,2.4,452$
+287,Acer,HDD,Radeon R5,AMD,Windows 10,AMD,15.6,2.2,4 MB,500MB,2.4,426$
+288,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,1000MB,2.4,422$
+289,Acer,HDD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,4 MB,500MB,2.4,418$
+290,Acer,HDD,HD Graphics 520,Intel,Linux,Intel,15.6,2,4 MB,500MB,2.4,398$
+291,Acer,HDD,HD Graphics 400,Intel,Linux,Intel,15.6,1.6,4 MB,500MB,2.4,318$
+292,Acer,HDD,HD Graphics 400,Intel,Linux,Intel,15.6,1.6,4 MB,500MB,2.4,318$
+293,Acer,HDD,HD Graphics 400,Intel,Linux,Intel,15.6,1.6,4 MB,500MB,2.4,318$
+294,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.38,1161$
+295,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.37,1209$
+296,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,4 MB,256MB,2.37,935$
+297,Asus,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.37,824$
+298,Asus,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,1000MB,2.37,439$
+299,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,8 MB,128MB,2.36,1077$
+300,Dell,SSD,Radeon R7 M445,AMD,Linux,Intel,15.6,2.7,16 MB,256MB,2.36,989$
+301,Dell,SSD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.36,978$
+302,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.36,824$
+303,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,17.3,2,4 MB,1000MB,2.36,725$
+304,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.36,703$
+305,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.36,703$
+306,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,2000MB,2.36,
+307,Asus,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,256MB,2.34,2558$
+308,Dell,SSD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.33,989$
+309,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,8 MB,128MB,2.33,928$
+310,Dell,SSD,Radeon R7 M445,AMD,Linux,Intel,15.6,2.7,8 MB,256MB,2.33,857$
+311,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.7,16 MB,2000MB,2.32,1089$
+312,Lenovo,Hybrid,Radeon R5 M330,AMD,Windows 7,Intel,15.6,2.5,8 MB,1000MB,2.32,985$
+313,Lenovo,Hybrid,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.5,4 MB,1000MB,2.32,908$
+314,Lenovo,HDD,Radeon R5 M330,AMD,No OS,Intel,15.6,2.3,8 MB,1000MB,2.32,659$
+315,Dell,HDD,Radeon R7 M445,AMD,Linux,Intel,15.6,2.5,8 MB,1000MB,2.32,648$
+316,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.9,8 MB,512MB,2.31,1687$
+317,HP,SSD,HD Graphics 630,Intel,Windows 10,Intel,15.6,2.9,8 MB,256MB,2.31,1570$
+318,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.31,1319$
+319,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,500MB,2.31,1308$
+320,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,8 MB,256MB,2.31,1282$
+321,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,2.31,
+322,HP,HDD,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.3,4 MB,500MB,2.31,1034$
+323,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.31,776$
+324,Lenovo,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.3,2690$
+325,Asus,Hybrid,GeForce GTX 950M,Nvidia,Windows 10,Intel,15.6,2.7,16 MB,512MB,2.3,1979$
+326,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.3,1821$
+327,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.3,1814$
+328,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.6,8 MB,256MB,2.3,1682$
+329,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,8 MB,256MB,2.3,1484$
+330,Dell,SSD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.7,16 MB,256MB,2.3,1299$
+331,MSI,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,128MB,2.3,1286$
+332,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.3,1203$
+333,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,8 MB,256MB,2.3,1155$
+334,Lenovo,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.3,1113$
+335,Lenovo,HDD,GeForce GTX 950M,Nvidia,Windows 10,Intel,15.6,2.3,4 MB,1000MB,2.3,1075$
+336,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.3,1002$
+337,Dell,HDD,Radeon R7 M445,AMD,Windows 10,Intel,15.6,2.7,16 MB,1000MB,2.3,945$
+338,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.3,936$
+339,Asus,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,12 MB,2000MB,2.3,923$
+340,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.3,
+341,Lenovo,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.3,901$
+342,Dell,HDD,Radeon R5 M430,AMD,Linux,Intel,15.6,2.7,8 MB,1000MB,2.3,887$
+343,Dell,HDD,Radeon R5 M430,AMD,Linux,Intel,15.6,2.7,8 MB,1000MB,2.3,887$
+344,Dell,HDD,Radeon R5 M430,AMD,Linux,Intel,15.6,2.7,8 MB,1000MB,2.3,887$
+345,Asus,SSD,GeForce GTX 930MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.3,866$
+346,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,12 MB,1000MB,2.3,784$
+347,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.3,753$
+348,Fujitsu,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,256MB,2.3,714$
+349,Dell,SSD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2.5,4 MB,256MB,2.3,703$
+350,Dell,SSD,Radeon R5 M430,AMD,Linux,Intel,15.6,2.5,4 MB,256MB,2.3,659$
+351,Asus,HDD,GeForce 940MX,Nvidia,Linux,Intel,15.6,2.4,8 MB,1000MB,2.3,657$
+352,Asus,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.3,649$
+353,Dell,HDD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.3,
+354,Lenovo,SSD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,8 MB,256MB,2.3,630$
+355,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,128MB,2.3,622$
+356,Asus,HDD,GeForce 940MX,Nvidia,Linux,Intel,15.6,2.5,8 MB,1000MB,2.3,575$
+357,Dell,SSD,Radeon R7 M440,AMD,Windows 10,Intel,15.6,2,4 MB,128MB,2.3,549$
+358,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,8 MB,1000MB,2.3,516$
+359,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,8 MB,1000MB,2.3,505$
+360,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,6 MB,1000MB,2.3,505$
+361,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,6 MB,1000MB,2.3,505$
+362,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,6 MB,1000MB,2.3,505$
+363,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,6 MB,1000MB,2.3,483$
+364,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,2.3,461$
+365,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,2.29,539$
+366,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,8 MB,1000MB,2.29,505$
+367,Asus,Hybrid,GeForce GT 940MX,Nvidia,Windows 10,Intel,15.6,2.7,12 MB,512MB,2.26,1209$
+368,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,12 MB,1000MB,2.25,714$
+369,Dell,HDD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.25,
+370,Dell,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.25,615$
+371,Dell,HDD,Radeon R5 M430,AMD,Linux,Intel,15.6,2,4 MB,1000MB,2.25,512$
+372,Dell,HDD,Radeon R5 M430,AMD,Linux,Intel,15.6,2,4 MB,1000MB,2.25,471$
+373,Dell,HDD,HD Graphics 520,Intel,Linux,Intel,15.6,2,4 MB,1000MB,2.25,395$
+374,Asus,SSD,GeForce GTX1080,Nvidia,Windows 10,Intel,15.6,2.8,24 MB,512MB,2.24,3265$
+375,Asus,Hybrid,GeForce GTX1060,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.24,1473$
+376,Dell,HDD,Radeon R5 M315,AMD,Windows 7,Intel,15.6,2.3,4 MB,500MB,2.24,846$
+377,Dell,HDD,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.3,4 MB,500MB,2.24,811$
+378,Dell,HDD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.24,622$
+379,Dell,Hybrid,Quadro M620,Nvidia,Windows 10,Intel,15.6,3,8 MB,64MB,2.23,2192$
+380,Dell,HDD,Quadro M620,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,2.23,1956$
+381,Dell,HDD,FirePro W5130M,AMD,Windows 10,Intel,15.6,2.6,8 MB,500MB,2.23,1506$
+382,Acer,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.23,816$
+383,Acer,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,256MB,2.23,760$
+384,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.23,681$
+385,Acer,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.23,678$
+386,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,6 MB,1000MB,2.23,604$
+387,Acer,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2,4 MB,1000MB,2.23,598$
+388,Acer,SSD,Radeon R5,AMD,Windows 10,AMD,15.6,2.2,8 MB,256MB,2.23,516$
+389,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,12 MB,128MB,2.21,1460$
+390,Asus,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.2,2694$
+391,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,128MB,2.2,1924$
+392,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,128MB,2.2,1624$
+393,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,128MB,2.2,1594$
+394,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.2,1539$
+395,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,17.3,2.5,12 MB,128MB,2.2,1507$
+396,MSI,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,2.2,1429$
+397,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,16 MB,256MB,2.2,1341$
+398,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.2,1319$
+399,MSI,Hybrid,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.2,1311$
+400,Asus,HDD,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.6,8 MB,1000MB,2.2,1286$
+401,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.2,1264$
+402,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,16 MB,256MB,2.2,1249$
+403,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.2,1232$
+404,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,8 MB,256MB,2.2,1231$
+405,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.2,1209$
+406,HP,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,2.2,1209$
+407,MSI,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.2,1198$
+408,Toshiba,SSD,GeForce 930M,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.2,1147$
+409,MSI,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.2,1131$
+410,MSI,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.2,1098$
+411,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,8 MB,128MB,2.2,1084$
+412,Asus,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,1000MB,2.2,1044$
+413,Lenovo,SSD,Radeon 530,AMD,Windows 10,AMD,15.6,3.6,12 MB,512MB,2.2,1044$
+414,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.2,1011$
+415,Lenovo,HDD,Radeon 530,AMD,Windows 10,AMD,15.6,3.6,12 MB,2000MB,2.2,989$
+416,Lenovo,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.2,989$
+417,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.2,957$
+418,Acer,SSD,GeForce MX150,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.2,925$
+419,MSI,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.2,923$
+420,Acer,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.2,915$
+421,Toshiba,HDD,GeForce 930M,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,500MB,2.2,893$
+422,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.2,880$
+423,Lenovo,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,15.6,2.7,4 MB,1000MB,2.2,879$
+424,Fujitsu,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.2,879$
+425,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.2,877$
+426,Lenovo,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,6 MB,256MB,2.2,868$
+427,Dell,HDD,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,4 MB,1000MB,2.2,854$
+428,Dell,SSD,Radeon R5 M430,AMD,Linux,Intel,15.6,2.7,8 MB,256MB,2.2,824$
+429,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,4 MB,256MB,2.2,824$
+430,Acer,HDD,GeForce MX130,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,1000MB,2.2,820$
+431,Dell,SSD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.2,820$
+432,Fujitsu,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.2,813$
+433,Asus,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.2,813$
+434,Asus,HDD,GeForce 920M,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.2,792$
+435,Asus,HDD,GeForce 920M,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.2,792$
+436,Asus,HDD,GeForce 920M,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.2,792$
+437,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,8 MB,128MB,2.2,
+438,Lenovo,HDD,GeForce 940MX,Nvidia,No OS,Intel,15.6,2.7,8 MB,1000MB,2.2,780$
+439,Acer,HDD,GeForce MX130,Nvidia,Windows 10,Intel,15.6,1.6,12 MB,1000MB,2.2,763$
+440,Acer,HDD,GeForce MX150,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,1000MB,2.2,758$
+441,Lenovo,HDD,GeForce 920MX,Nvidia,No OS,Intel,15.6,2.7,8 MB,1000MB,2.2,754$
+442,Acer,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,4 MB,256MB,2.2,750$
+443,Dell,SSD,Radeon 520,AMD,Linux,Intel,15.6,1.6,8 MB,256MB,2.2,745$
+444,Dell,HDD,Radeon 520,AMD,Windows 10,Intel,15.6,1.6,8 MB,1000MB,2.2,743$
+445,Lenovo,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.2,736$
+446,Lenovo,HDD,GeForce 940MX,Nvidia,No OS,Intel,15.6,2.7,8 MB,1000MB,2.2,725$
+447,Acer,SSD,Radeon RX 540,AMD,Windows 10,AMD,15.6,2.7,8 MB,256MB,2.2,725$
+448,Dell,HDD,Radeon 520,AMD,Linux,Intel,15.6,1.6,8 MB,1000MB,2.2,712$
+449,Acer,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,4 MB,500MB,2.2,703$
+450,Lenovo,HDD,GeForce 920MX,Nvidia,No OS,Intel,15.6,2.5,8 MB,500MB,2.2,692$
+451,Lenovo,SSD,GeForce 940MX,Nvidia,No OS,Intel,15.6,2.5,8 MB,256MB,2.2,692$
+452,Acer,HDD,GeForce MX150,Nvidia,Windows 10,Intel,15.6,1.6,4 MB,1000MB,2.2,674$
+453,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,12 MB,1000MB,2.2,670$
+454,Dell,HDD,Radeon R5 M430,AMD,Linux,Intel,15.6,2.7,8 MB,1000MB,2.2,660$
+455,Lenovo,SSD,Radeon 530,AMD,Windows 10,AMD,15.6,3.6,6 MB,256MB,2.2,657$
+456,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.2,657$
+457,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,8 MB,128MB,2.2,648$
+458,Acer,HDD,Radeon RX 540,AMD,Windows 10,AMD,15.6,2.5,8 MB,1000MB,2.2,637$
+459,Lenovo,HDD,GeForce 920MX ,Nvidia,Windows 10,Intel,15.6,2,4 MB,1000MB,2.2,637$
+460,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,6 MB,256MB,2.2,637$
+461,Asus,Hybrid,Radeon R5 M430,AMD,Windows 10,AMD,15.6,2.5,4 MB,128MB,2.2,
+462,Acer,SSD,GeForce MX130,Nvidia,Windows 10,Intel,15.6,2.7,4 MB,256MB,2.2,629$
+463,Lenovo,HDD,GeForce 940MX,Nvidia,No OS,Intel,15.6,2.5,8 MB,2000MB,2.2,604$
+464,Lenovo,SSD,Radeon 530,AMD,Windows 10,AMD,15.6,3.6,6 MB,256MB,2.2,604$
+465,Lenovo,SSD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,8 MB,256MB,2.2,604$
+466,Dell,HDD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2,4 MB,1000MB,2.2,600$
+467,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.2,589$
+468,Acer,HDD,GeForce MX130,Nvidia,Windows 10,Intel,15.6,2.7,4 MB,1000MB,2.2,583$
+469,Lenovo,HDD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,8 MB,2000MB,2.2,571$
+470,Lenovo,HDD,GeForce 940MX,Nvidia,No OS,Intel,15.6,2.4,8 MB,1000MB,2.2,549$
+471,Lenovo,HDD,GeForce 920MX,Nvidia,No OS,Intel,15.6,2.5,4 MB,1000MB,2.2,549$
+472,Lenovo,SSD,GeForce 920MX ,Nvidia,No OS,Intel,15.6,2,8 MB,256MB,2.2,549$
+473,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,128MB,2.2,549$
+474,Dell,SSD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2,4 MB,256MB,2.2,549$
+475,Dell,SSD,Radeon R5 M430,AMD,Linux,Intel,15.6,2,4 MB,256MB,2.2,534$
+476,Lenovo,HDD,Radeon R5 M430,AMD,No OS,Intel,15.6,2,4 MB,1000MB,2.2,527$
+477,Lenovo,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,1000MB,2.2,516$
+478,Acer,HDD,GeForce GTX 940MX,Nvidia,Windows 10,Intel,15.6,2,4 MB,500MB,2.2,516$
+479,Lenovo,HDD,GeForce 920MX ,Nvidia,Windows 10,Intel,15.6,2,4 MB,1000MB,2.2,515$
+480,Lenovo,SSD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,4 MB,128MB,2.2,515$
+481,Lenovo,HDD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,4 MB,1000MB,2.2,514$
+482,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,8 MB,1000MB,2.2,505$
+483,Lenovo,HDD,GeForce 920MX ,Nvidia,No OS,Intel,15.6,2,8 MB,2000MB,2.2,505$
+484,Dell,HDD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2,4 MB,1000MB,2.2,494$
+485,Lenovo,SSD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,256MB,2.2,488$
+486,Dell,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.2,488$
+487,Lenovo,HDD,Radeon R7,AMD,Windows 10,AMD,15.6,3.6,8 MB,1000MB,2.2,472$
+488,Lenovo,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,500MB,2.2,461$
+489,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,2.2,450$
+490,Lenovo,SSD,R4 Graphics,AMD,Windows 10,AMD,15.6,2.5,4 MB,128MB,2.2,439$
+491,Lenovo,SSD,Radeon 530,AMD,Windows 10,AMD,15.6,2.9,4 MB,256MB,2.2,439$
+492,Dell,HDD,HD Graphics,Intel,Linux,Intel,15.6,1.6,4 MB,500MB,2.2,433$
+493,Dell,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,2 MB,500MB,2.2,417$
+494,Dell,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,2 MB,500MB,2.2,417$
+495,Dell,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,2 MB,500MB,2.2,417$
+496,Asus,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.2,406$
+497,Asus,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.2,406$
+498,Asus,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.2,406$
+499,Asus,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.2,406$
+500,Dell,HDD,HD Graphics,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.2,406$
+501,Lenovo,SSD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,128MB,2.2,406$
+502,Lenovo,HDD,HD Graphics 505,Intel,No OS,Intel,15.6,1.1,4 MB,1000MB,2.2,396$
+503,Acer,Flash,HD Graphics,Intel,Chrome OS,Intel,15.6,1.5,4 MB,16MB,2.2,395$
+504,Lenovo,SSD,Radeon R2 Graphics,AMD,Windows 10,AMD,15.6,2.2,4 MB,128MB,2.2,384$
+505,Lenovo,SSD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,4 MB,128MB,2.2,384$
+506,Lenovo,HDD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,4 MB,500MB,2.2,378$
+507,Lenovo,HDD,HD Graphics 405,Intel,No OS,Intel,15.6,1.6,8 MB,1000MB,2.2,362$
+508,Dell,HDD,HD Graphics,Intel,Linux,Intel,15.6,1.6,4 MB,500MB,2.2,356$
+509,Lenovo,HDD,HD Graphics 500,Intel,No OS,Intel,15.6,1.1,4 MB,1000MB,2.2,354$
+510,Lenovo,HDD,Radeon R4 Graphics,AMD,No OS,AMD,15.6,2.9,4 MB,500MB,2.2,340$
+511,Lenovo,HDD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2.2,340$
+512,Lenovo,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2.2,337$
+513,Lenovo,HDD,Radeon R2 Graphics,AMD,Windows 10,AMD,15.6,2.2,4 MB,500MB,2.2,329$
+514,Dell,HDD,HD Graphics,Intel,Linux,Intel,15.6,1.6,4 MB,500MB,2.2,302$
+515,Acer,SSD,HD Graphics,Intel,Chrome OS,Intel,15.6,1.5,4 MB,16MB,2.2,230$
+516,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.191,1099$
+517,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,12 MB,512MB,2.19,1429$
+518,HP,HDD,Radeon R5 M330,AMD,Windows 10,Intel,15.6,2.5,6 MB,1000MB,2.19,840$
+519,HP,HDD,Radeon R5 M330,AMD,Windows 10,Intel,15.6,2.5,6 MB,1000MB,2.19,840$
+520,HP,HDD,Radeon R5 M330,AMD,Windows 10,Intel,15.6,2.5,6 MB,1000MB,2.19,840$
+521,Lenovo,HDD,Radeon R4,AMD,Windows 10,AMD,15.6,2,4 MB,500MB,2.19,328$
+522,Acer,SSD,HD Graphics,Intel,Chrome OS,Intel,15.6,1.5,2 MB,16MB,2.19,219$
+523,Lenovo,SSD,Quadro M520M,Nvidia,Windows 7,Intel,15.6,2.5,16 MB,512MB,2.18,2041$
+524,Dell,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.18,1111$
+525,Dell,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,4 MB,128MB,2.18,1004$
+526,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.18,920$
+527,HP,HDD,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.6,6 MB,1000MB,2.18,879$
+528,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.18,875$
+529,Dell,SSD,Radeon R5 M420,AMD,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.18,869$
+530,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.18,825$
+531,Dell,SSD,Radeon R5 M420,AMD,Windows 10,Intel,15.6,2.7,4 MB,256MB,2.18,813$
+532,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,128MB,2.18,785$
+533,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.18,779$
+534,Dell,HDD,Radeon R5 M420,AMD,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.18,753$
+535,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.18,723$
+536,Dell,HDD,Radeon R5 M420,AMD,Windows 10,Intel,15.6,2,4 MB,1000MB,2.18,680$
+537,Dell,HDD,Radeon R5 M420X,AMD,Windows 10,Intel,15.6,2,4 MB,1000MB,2.18,675$
+538,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,1000MB,2.18,645$
+539,Dell,SSD,Radeon R5 M420,AMD,Linux,Intel,15.6,2.5,4 MB,128MB,2.18,626$
+540,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,2.18,614$
+541,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,128MB,2.18,602$
+542,Dell,HDD,HD Graphics 520,Intel,Linux,Intel,15.6,2.5,4 MB,1000MB,2.18,574$
+543,Dell,HDD,Radeon R5 M420,AMD,Linux,Intel,15.6,2,4 MB,1000MB,2.18,512$
+544,Dell,HDD,Radeon R5 M420X,AMD,Linux,Intel,15.6,2,4 MB,1000MB,2.18,501$
+545,Dell,HDD,HD Graphics 520,Intel,Linux,Intel,15.6,2,4 MB,1000MB,2.18,488$
+546,Dell,SSD,Quadro M620,Nvidia,Windows 10,Intel,15.6,2.7,16 MB,512MB,2.17,2572$
+547,Dell,SSD,Quadro M620,Nvidia,Windows 10,Intel,15.6,2.7,16 MB,256MB,2.17,2173$
+548,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.17,989$
+549,Dell,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,512MB,2.16,1388$
+550,Dell,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.16,1243$
+551,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,12 MB,1000MB,2.15,725$
+552,Lenovo,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2.3,4 MB,1000MB,2.15,509$
+553,Dell,SSD,Radeon 520,AMD,Linux,Intel,15.6,1.8,8 MB,256MB,2.14,809$
+554,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.14,594$
+555,Dell,SSD,Radeon 520,AMD,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.13,845$
+556,Dell,SSD,Radeon 520,AMD,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.13,801$
+557,Asus,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,128MB,2.1,2089$
+558,Lenovo,SSD,Radeon RX 550,AMD,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.1,1353$
+559,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,16 MB,512MB,2.1,1275$
+560,Asus,Hybrid,GeForce 150MX,Nvidia,Windows 10,Intel,17.3,1.8,8 MB,128MB,2.1,1260$
+561,Lenovo,Hybrid,Radeon RX 550,AMD,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.1,1259$
+562,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,1000MB,2.1,992$
+563,HP,SSD,GeForce 930MX ,Nvidia,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.1,967$
+564,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,256MB,2.1,954$
+565,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,8 MB,1000MB,2.1,873$
+566,Toshiba,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.1,858$
+567,HP,HDD,Radeon 530,AMD,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.1,820$
+568,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.1,794$
+569,HP,HDD,GeForce 930MX ,Nvidia,Windows 10,Intel,15.6,2.4,8 MB,1000MB,2.1,788$
+570,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,128MB,2.1,776$
+571,HP,HDD,Radeon 530,AMD,Windows 10,Intel,15.6,2.7,4 MB,500MB,2.1,758$
+572,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,500MB,2.1,735$
+573,HP,Hybrid,Radeon 520,AMD,Windows 10,AMD,15.6,3,6 MB,128MB,2.1,715$
+574,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,1000MB,2.1,684$
+575,Toshiba,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.1,662$
+576,Acer,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,256MB,2.1,659$
+577,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.1,594$
+578,HP,HDD,Radeon 530,AMD,Windows 10,AMD,15.6,2.7,6 MB,1000MB,2.1,582$
+579,Asus,HDD,GeForce 920,Nvidia,Linux,Intel,15.6,2.5,4 MB,1000MB,2.1,571$
+580,HP,Hybrid,Radeon 520,AMD,Windows 10,Intel,15.6,2,4 MB,128MB,2.1,549$
+581,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.1,4 MB,128MB,2.1,548$
+582,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,128MB,2.1,542$
+583,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,2.1,539$
+584,HP,HDD,Radeon 520,AMD,Windows 10,AMD,15.6,3,4 MB,1000MB,2.1,538$
+585,Acer,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,6 MB,1000MB,2.1,527$
+586,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,2.1,526$
+587,HP,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2.3,4 MB,500MB,2.1,525$
+588,HP,HDD,Radeon 520,AMD,Windows 10,Intel,15.6,2,4 MB,1000MB,2.1,516$
+589,Acer,SSD,Radeon R5,AMD,Windows 10,AMD,15.6,3,4 MB,256MB,2.1,496$
+590,Acer,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,128MB,2.1,494$
+591,Toshiba,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.2,4 MB,500MB,2.1,492$
+592,Acer,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,2.1,492$
+593,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,128MB,2.1,472$
+594,Acer,SSD,Radeon R5,AMD,Windows 10,AMD,15.6,3,4 MB,128MB,2.1,469$
+595,Acer,SSD,HD Graphics 520,Intel,Linux,Intel,15.6,2,4 MB,128MB,2.1,453$
+596,Acer,HDD,Radeon R5,AMD,Windows 10,AMD,15.6,3,6 MB,1000MB,2.1,450$
+597,Acer,HDD,Radeon R5,AMD,Windows 10,AMD,15.6,3,4 MB,500MB,2.1,440$
+598,HP,HDD,Radeon R4,AMD,Windows 10,AMD,15.6,2.5,4 MB,1000MB,2.1,438$
+599,Lenovo,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2.3,4 MB,500MB,2.1,438$
+600,Acer,HDD,Radeon R5,AMD,Windows 10,AMD,15.6,3,4 MB,1000MB,2.1,435$
+601,Acer,HDD,HD Graphics 520,Intel,Linux,Intel,15.6,2,4 MB,1000MB,2.1,429$
+602,Acer,HDD,HD Graphics 520,Intel,Windows 10,Intel,14,2,8 MB,1000MB,2.1,428$
+603,Acer,HDD,HD Graphics 620,Intel,Linux,Intel,15.6,2.7,4 MB,1000MB,2.1,404$
+604,Acer,HDD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2.1,400$
+605,HP,HDD,Radeon R2,AMD,Windows 10,AMD,15.6,1.5,4 MB,500MB,2.1,384$
+606,HP,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,500MB,2.1,384$
+607,Acer,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2.1,383$
+608,HP,HDD,HD Graphics 400,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.1,382$
+609,Acer,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,2.1,366$
+610,HP,HDD,Radeon R2,AMD,Windows 10,AMD,15.6,1.5,4 MB,500MB,2.1,363$
+611,Lenovo,HDD,HD Graphics 510,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.1,350$
+612,Lenovo,HDD,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,500MB,2.1,329$
+613,Acer,HDD,HD Graphics 505,Intel,Linux,Intel,15.6,1.1,4 MB,1000MB,2.1,328$
+614,Acer,HDD,HD Graphics 500,Intel,Linux,Intel,15.6,2,4 MB,1000MB,2.1,299$
+615,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,16 MB,512MB,2.09,1297$
+616,Dell,SSD,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.4,8 MB,256MB,2.09,1169$
+617,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.4,8 MB,500MB,2.09,1151$
+618,Dell,HDD,HD Graphics 520,Intel,Linux,Intel,15.6,2.3,4 MB,500MB,2.09,576$
+619,Lenovo,SSD,Radeon R7 M460,AMD,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.08,1055$
+620,Dell,HDD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,1000MB,2.08,901$
+621,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,1000MB,2.08,876$
+622,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15,2.4,4 MB,500MB,2.08,560$
+623,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.07,1001$
+624,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.07,715$
+625,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,32 MB,1000MB,2.06,2903$
+626,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,1000MB,2.06,2639$
+627,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.06,2637$
+628,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.06,2230$
+629,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2.06,2089$
+630,Dell,SSD,Quadro M620,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,2.06,1939$
+631,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.06,1924$
+632,Asus,Hybrid,HD Graphics 530,Intel,Windows 10,Intel,15.6,2.6,12 MB,128MB,2.06,1429$
+633,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.06,1051$
+634,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,2.06,530$
+635,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.05,968$
+636,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,8 MB,256MB,2.05,813$
+637,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,2.05,754$
+638,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,4 MB,128MB,2.05,693$
+639,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.05,658$
+640,Dell,SSD,GeForce 960M,Nvidia,Windows 10,Intel,15.6,2.3,8 MB,256MB,2.04,2476$
+641,Apple,Flash,Iris Pro Graphics,Intel,Mac OS X,Intel,15.4,2.2,16 MB,256MB,2.04,2354$
+642,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.04,1177$
+643,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,2.04,1121$
+644,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,256MB,2.04,1077$
+645,HP,Hybrid,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,128MB,2.04,1077$
+646,HP,HDD,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,1000MB,2.04,990$
+647,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2.04,978$
+648,HP,HDD,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.04,931$
+649,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,256MB,2.04,923$
+650,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.04,887$
+651,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,256MB,2.04,847$
+652,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,2.04,816$
+653,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,500MB,2.04,754$
+654,HP,HDD,Radeon R7 Graphics,AMD,Windows 10,AMD,15.6,2.5,8 MB,2000MB,2.04,692$
+655,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,2000MB,2.04,692$
+656,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,6 MB,1000MB,2.04,637$
+657,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,2.04,615$
+658,HP,Hybrid,Radeon R7 M440,AMD,Windows 10,AMD,15.6,2.9,6 MB,1000MB,2.04,605$
+659,HP,Hybrid,Radeon R7 M440,AMD,Windows 10,AMD,15.6,2.9,6 MB,1000MB,2.04,605$
+660,HP,Hybrid,Radeon R7 M440,AMD,Windows 10,AMD,15.6,2.9,6 MB,1000MB,2.04,605$
+661,HP,HDD,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2,6 MB,1000MB,2.04,593$
+662,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,4 MB,1000MB,2.04,574$
+663,HP,HDD,HD Graphics 405,Intel,Windows 10,Intel,15.6,1.6,8 MB,2000MB,2.04,428$
+664,Asus,HDD,Radeon R5 M420,AMD,Windows 10,AMD,15.6,3,4 MB,1000MB,2.03,443$
+665,Lenovo,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,8 MB,256MB,2.02,1474$
+666,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,8 MB,256MB,2.02,1257$
+667,Dell,Hybrid,Radeon 530,AMD,Linux,Intel,15.6,1.8,16 MB,256MB,2.02,1154$
+668,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,500MB,2.02,1089$
+669,Dell,Hybrid,Radeon 530,AMD,Windows 10,Intel,15.6,1.8,8 MB,128MB,2.02,1068$
+670,Dell,Hybrid,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,128MB,2.02,941$
+671,Dell,HDD,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,8 MB,2000MB,2.02,835$
+672,HP,SSD,Quadro M1000M,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,8MB,2,2474$
+673,Dell,SSD,Quadro M1200,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,2,2349$
+674,HP,SSD,Quadro M1000M,Nvidia,Windows 7,Intel,15.6,2.6,8 MB,256MB,2,2089$
+675,Lenovo,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,2,2089$
+676,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,2,2012$
+677,Dell,SSD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,2,2002$
+678,Lenovo,SSD,GeForce GTX 1050M,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,512MB,2,1869$
+679,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,2,1527$
+680,Asus,Hybrid,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,2,1467$
+681,Lenovo,SSD,HD Graphics 630,Intel,Windows 10,Intel,15.6,2.8,8 MB,256MB,2,1429$
+682,Asus,Hybrid,GeForce GTX 960M,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,2,1429$
+683,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,16 MB,512MB,2,1414$
+684,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2,1384$
+685,Asus,Hybrid,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,2,1346$
+686,Dell,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,128MB,2,1328$
+687,Dell,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,1.6,8 MB,256MB,2,1257$
+688,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,2,1203$
+689,Toshiba,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,500MB,2,1170$
+690,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,2,1040$
+691,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,2,1037$
+692,Toshiba,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,500MB,2,946$
+693,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,128MB,2,872$
+694,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.4,4 MB,256MB,2,846$
+695,Asus,SSD,GeForce 920MX ,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,2,846$
+696,Dell,SSD,Radeon R5 M420X,AMD,Windows 10,Intel,15.6,2,8 MB,256MB,2,813$
+697,Toshiba,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,500MB,2,736$
+698,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,8 MB,256MB,2,732$
+699,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,256MB,2,645$
+700,Asus,SSD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,8 MB,128MB,2,640$
+701,Asus,SSD,GeForce 920M,Nvidia,Windows 10,Intel,15.6,2.4,6 MB,256MB,2,635$
+702,Asus,HDD,GeForce 920MX,Nvidia,Windows 10,Intel,17.3,2,4 MB,1000MB,2,620$
+703,Asus,SSD,HD Graphics 620,Intel,Linux,Intel,15.6,2.5,4 MB,256MB,2,615$
+704,Toshiba,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,500MB,2,538$
+705,Asus,HDD,HD Graphics 505,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2,494$
+706,Asus,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.4,4 MB,1000MB,2,479$
+707,Asus,SSD,HD Graphics 520,Intel,Linux,Intel,15.6,2,4 MB,256MB,2,457$
+708,Asus,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,8 MB,1000MB,2,439$
+709,Asus,HDD,HD Graphics 505,Intel,Linux,Intel,15.6,1.1,4 MB,1000MB,2,439$
+710,Asus,HDD,HD Graphics 620,Intel,Linux,Intel,15.6,2,4 MB,1000MB,2,428$
+711,Asus,HDD,Radeon R2 Graphics,AMD,Windows 10,AMD,15.6,1.8,4 MB,500MB,2,384$
+712,Asus,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2,378$
+713,Asus,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,1000MB,2,373$
+714,Asus,HDD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,500MB,2,334$
+715,Asus,HDD,HD Graphics 500,Intel,Linux,Intel,15.6,1.1,4 MB,1000MB,2,302$
+716,Asus,HDD,HD Graphics 500,Intel,Linux,Intel,15.6,1.1,4 MB,500MB,2,246$
+717,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,512MB,1.99,1902$
+718,Asus,Hybrid,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,128MB,1.99,1485$
+719,Asus,HDD,GeForce GTX 1050,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,1000MB,1.99,997$
+720,Dell,HDD,GeForce GT 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,1000MB,1.98,1057$
+721,Dell,SSD,GeForce GT 940MX,Nvidia,Linux,Intel,15.6,2.7,8 MB,256MB,1.98,985$
+722,Dell,HDD,HD Graphics 620,Intel,Linux,Intel,15.6,2.5,8 MB,1000MB,1.98,799$
+723,Lenovo,SSD,GeForce GT 940MX,Nvidia,Windows 10,Intel,14,2.8,8 MB,256MB,1.96,2093$
+724,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.96,747$
+725,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.96,659$
+726,HP,HDD,HD Graphics 405,Intel,Windows 10,Intel,15.6,1.6,4 MB,1000MB,1.96,550$
+727,HP,HDD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,4 MB,500MB,1.96,549$
+728,Razer,SSD,GeForce GTX 1060,Nvidia,Windows 10,Intel,14,2.8,16 MB,1000MB,1.95,3849$
+729,Razer,SSD,GeForce GTX 1060,Nvidia,Windows 10,Intel,14,2.8,16 MB,512MB,1.95,3189$
+730,Razer,SSD,GeForce GTX 1060,Nvidia,Windows 10,Intel,14,2.8,16 MB,256MB,1.95,2859$
+731,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,512MB,1.95,2159$
+732,Xiaomi,SSD,GeForce MX150,Nvidia,No OS,Intel,15.6,1.8,16 MB,256MB,1.95,1540$
+733,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.95,1529$
+734,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,128MB,1.95,1392$
+735,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,256MB,1.95,1326$
+736,Xiaomi,SSD,GeForce MX150,Nvidia,No OS,Intel,15.6,1.6,8 MB,256MB,1.95,1319$
+737,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,8 MB,256MB,1.95,1315$
+738,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,256MB,1.95,1298$
+739,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,500MB,1.95,1264$
+740,Lenovo,SSD,HD Graphics 630,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,1.95,1207$
+741,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,500MB,1.95,1166$
+742,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.95,1078$
+743,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,128MB,1.95,891$
+744,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.3,4 MB,500MB,1.95,803$
+745,HP,SSD,Radeon 530,AMD,Windows 10,AMD,15.6,3,6 MB,256MB,1.95,714$
+746,HP,HDD,HD Graphics 405,Intel,Windows 10,Intel,14,1.6,8 MB,2000MB,1.94,428$
+747,Dell,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,1.93,1691$
+748,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.6,16 MB,512MB,1.93,1569$
+749,Dell,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,1.93,1506$
+750,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.6,4 MB,500MB,1.93,1055$
+751,Dell,HDD,HD Graphics 620,Intel,Linux,Intel,15.6,2.6,4 MB,500MB,1.93,956$
+752,MSI,Hybrid,GeForce GTX 970M,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,128MB,1.91,2369$
+753,HP,HDD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,1000MB,1.91,1077$
+754,HP,SSD,Radeon 530,AMD,Windows 10,Intel,15.6,2.7,8 MB,256MB,1.91,791$
+755,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,256MB,1.91,725$
+756,HP,SSD,Radeon 520,AMD,Windows 10,Intel,15.6,1.6,6 MB,256MB,1.91,681$
+757,HP,SSD,Radeon 520,AMD,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.91,681$
+758,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,128MB,1.91,648$
+759,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.91,637$
+760,HP,SSD,Radeon 530,AMD,Windows 10,AMD,15.6,2.5,6 MB,128MB,1.91,626$
+761,HP,SSD,Radeon 520,AMD,Windows 10,AMD,15.6,3,4 MB,256MB,1.91,549$
+762,HP,SSD,Radeon R5,AMD,Windows 10,AMD,15.6,3,4 MB,256MB,1.91,538$
+763,HP,SSD,Radeon 520,AMD,Windows 10,AMD,15.6,2.5,4 MB,256MB,1.91,527$
+764,HP,SSD,Radeon R4 Graphics,AMD,Windows 10,AMD,15.6,2.5,8 MB,128MB,1.91,490$
+765,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,128MB,1.91,483$
+766,HP,SSD,FirePro W4190M,AMD,Windows 7,Intel,15.6,2.5,8 MB,256MB,1.9,1645$
+767,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.8,8 MB,256MB,1.9,1515$
+768,HP,HDD,FirePro W4190M ,AMD,Windows 10,Intel,15.6,2.7,8 MB,1000MB,1.9,1396$
+769,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.6,8 MB,256MB,1.9,1297$
+770,HP,HDD,FirePro W4190M ,AMD,Windows 10,Intel,15.6,2.5,8 MB,500MB,1.9,1269$
+771,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.9,1229$
+772,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,256MB,1.9,1179$
+773,Dell,Hybrid,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,1.6,8 MB,128MB,1.9,1154$
+774,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.6,8 MB,500MB,1.9,1109$
+775,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,128MB,1.9,1040$
+776,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.9,1032$
+777,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.6,8 MB,500MB,1.9,1029$
+778,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,1.9,908$
+779,Lenovo,Hybrid,Radeon R5 M430,AMD,Windows 10,Intel,15.6,2.5,8 MB,128MB,1.9,900$
+780,Lenovo,Hybrid,R17M-M1-70,AMD,Windows 10,Intel,15.6,2.5,8 MB,128MB,1.9,894$
+781,Dell,HDD,Radeon 530,AMD,Windows 10,Intel,15.6,1.6,8 MB,1000MB,1.9,729$
+782,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,1000MB,1.9,604$
+783,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,128MB,1.9,548$
+784,Lenovo,HDD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,4 MB,1000MB,1.9,539$
+785,Lenovo,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,500MB,1.9,495$
+786,Lenovo,HDD,Radeon R5 M430,AMD,No OS,Intel,15.6,2,4 MB,1000MB,1.9,405$
+787,Lenovo,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,1000MB,1.9,373$
+788,Lenovo,SSD,HD Graphics 500,Intel,No OS,Intel,15.6,1.1,4 MB,128MB,1.9,298$
+789,Lenovo,HDD,HD Graphics 500,Intel,No OS,Intel,15.6,1.1,4 MB,1000MB,1.9,278$
+790,Chuwi,Flash,HD Graphics,Intel,Windows 10,Intel,15.6,1.44,4 MB,64MB,1.89,274$
+791,Chuwi,Flash,HD Graphics,Intel,Windows 10,Intel,15.6,1.44,4 MB,64MB,1.89,269$
+792,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.5,8 MB,256MB,1.88,2389$
+793,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.9,16 MB,512MB,1.88,1769$
+794,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.3,8 MB,256MB,1.88,1737$
+795,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.9,8 MB,256MB,1.88,1428$
+796,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,8 MB,256MB,1.88,1206$
+797,HP,HDD,HD Graphics 520,Intel,Windows 7,Intel,15.6,2.3,4 MB,500MB,1.88,1025$
+798,Lenovo,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,14,2.7,8 MB,256MB,1.87,945$
+799,Lenovo,SSD,GeForce 920MX,Nvidia,Windows 10,Intel,14,2.5,8 MB,256MB,1.87,943$
+800,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,500MB,1.87,864$
+801,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.86,759$
+802,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,1000MB,1.86,703$
+803,HP,HDD,Radeon 520,AMD,Windows 10,Intel,15.6,2.5,4 MB,500MB,1.86,674$
+804,HP,SSD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,8 MB,256MB,1.86,633$
+805,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,8 MB,256MB,1.86,593$
+806,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,1000MB,1.86,538$
+807,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,4 MB,500MB,1.86,534$
+808,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,1.86,516$
+809,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,1.86,483$
+810,HP,HDD,Radeon 520,AMD,Windows 10,Intel,15.6,2,4 MB,500MB,1.86,483$
+811,Asus,SSD,HD Graphics 500,Intel,Windows 10,Intel,15.6,1.1,4 MB,128MB,1.86,461$
+812,HP,HDD,Radeon R4 Graphics,AMD,Windows 10,AMD,15.6,2.5,4 MB,500MB,1.86,439$
+813,HP,SSD,HD Graphics 405,Intel,Windows 10,Intel,15.6,1.6,4 MB,256MB,1.86,439$
+814,HP,SSD,Radeon R4 Graphics,AMD,Windows 10,AMD,15.6,2.5,4 MB,256MB,1.86,438$
+815,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,500MB,1.86,437$
+816,HP,HDD,HD Graphics 620,Intel,No OS,Intel,15.6,2.5,4 MB,500MB,1.86,433$
+817,HP,SSD,Radeon R4 Graphics,AMD,Windows 10,AMD,15.6,2.5,4 MB,256MB,1.86,406$
+818,HP,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,500MB,1.86,401$
+819,HP,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,1000MB,1.86,381$
+820,HP,HDD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,500MB,1.86,379$
+821,HP,SSD,HD Graphics 400,Intel,No OS,Intel,15.6,1.6,4 MB,128MB,1.86,329$
+822,HP,HDD,Radeon R2 Graphics,AMD,Windows 10,AMD,15.6,1.8,4 MB,500MB,1.86,327$
+823,HP,HDD,HD Graphics 400,Intel,No OS,Intel,15.6,1.6,4 MB,1000MB,1.86,318$
+824,HP,HDD,HD Graphics 400,Intel,No OS,Intel,15.6,1.6,4 MB,500MB,1.86,285$
+825,HP,HDD,Radeon R2,AMD,No OS,AMD,15.6,1.5,4 MB,500MB,1.86,284$
+826,Lenovo,HDD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,4 MB,1000MB,1.85,857$
+827,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,1.85,494$
+828,Lenovo,HDD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,1000MB,1.85,456$
+829,Lenovo,SSD,HD Graphics 520,Intel,No OS,Intel,15.6,2,4 MB,128MB,1.85,444$
+830,HP,Hybrid,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.4,8 MB,256MB,1.84,2314$
+831,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.4,8 MB,256MB,1.84,2090$
+832,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,512MB,1.84,1528$
+833,HP,SSD,Radeon R7 M465,AMD,Windows 10,Intel,15.6,2.6,8 MB,256MB,1.84,1484$
+834,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,1.84,1434$
+835,HP,SSD,Radeon R7 M365X,AMD,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.84,1427$
+836,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.84,1352$
+837,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,1.84,1341$
+838,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.84,1258$
+839,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,8 MB,256MB,1.84,827$
+840,Apple,SSD,Radeon Pro 560,AMD,macOS,Intel,15.4,2.9,16 MB,512MB,1.83,3144$
+841,Apple,SSD,Radeon Pro 455,AMD,macOS,Intel,15.4,2.7,16 MB,512MB,1.83,2791$
+842,Apple,SSD,Radeon Pro 555,AMD,macOS,Intel,15.4,2.8,16 MB,256MB,1.83,2684$
+843,HP,SSD,GeForce GTX 940MX,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,256MB,1.83,769$
+844,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,1.8,2529$
+845,MSI,Hybrid,GeForce GTX 1070,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,1.8,2466$
+846,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,256MB,1.8,2304$
+847,Lenovo,SSD,Quadro M500M,Nvidia,Windows 7,Intel,14,2.6,8 MB,512MB,1.8,2255$
+848,Asus,SSD,GeForce GTX 1050 Ti,Nvidia,Windows 10,Intel,15.6,2.8,16 MB,512MB,1.8,2181$
+849,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,15.6,2.6,16 MB,256MB,1.8,2122$
+850,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.8,1836$
+851,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,256MB,1.8,1310$
+852,Acer,SSD,Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.8,1011$
+853,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2.5,4 MB,256MB,1.8,932$
+854,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,128MB,1.8,916$
+855,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.6,4 MB,256MB,1.8,912$
+856,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,4 MB,128MB,1.8,702$
+857,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,4 MB,128MB,1.8,702$
+858,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,4 MB,128MB,1.8,702$
+859,Acer,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.4,4 MB,128MB,1.8,700$
+860,Dell,HDD,HD Graphics 400,Intel,Windows 10,Intel,15.6,1.6,4 MB,500MB,1.8,340$
+861,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,128MB,1.79,814$
+862,Dell,SSD,Quadro M1200,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,1.78,2983$
+863,Dell,SSD,Quadro M1200,Nvidia,Windows 10,Intel,15.6,2.8,8 MB,256MB,1.78,2649$
+864,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,500MB,1.76,831$
+865,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,14,2,4 MB,500MB,1.76,644$
+866,Lenovo,SSD,Radeon RX 550,AMD,Windows 10,Intel,14,1.8,8 MB,256MB,1.75,1337$
+867,Lenovo,SSD,Radeon RX 550,AMD,Windows 10,Intel,14,1.6,8 MB,256MB,1.75,1228$
+868,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.75,1154$
+869,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,128MB,1.75,1122$
+870,Toshiba,HDD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,500MB,1.75,1007$
+871,Toshiba,SSD,HD Graphics 510,Intel,Windows 10,Intel,14,2.1,4 MB,128MB,1.75,549$
+872,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.74,989$
+873,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.4,4 MB,256MB,1.74,692$
+874,Samsung,SSD,Radeon 540,AMD,Windows 10,Intel,15,2.7,16 MB,256MB,1.71,1979$
+875,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.4,4 MB,1000MB,1.71,714$
+876,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,512MB,1.7,2529$
+877,Lenovo,SSD,GeForce GT 940MX,Nvidia,Windows 10,Intel,14,2.8,8 MB,512MB,1.7,2137$
+878,MSI,Hybrid,GeForce GTX 970M,Nvidia,Windows 10,Intel,14,2.6,16 MB,256MB,1.7,1946$
+879,Lenovo,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.6,8 MB,256MB,1.7,1649$
+880,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.7,1638$
+881,Lenovo,SSD,HD Graphics 630,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.7,1621$
+882,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,180MB,1.7,1500$
+883,Lenovo,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,8 MB,180MB,1.7,1319$
+884,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,256MB,1.7,1305$
+885,Asus,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,1.8,8 MB,256MB,1.7,1230$
+886,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,180MB,1.7,1206$
+887,Asus,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,8 MB,256MB,1.7,1155$
+888,Lenovo,Hybrid,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,4 MB,508MB,1.7,1102$
+889,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.7,1099$
+890,Asus,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.5,8 MB,256MB,1.7,1075$
+891,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.7,967$
+892,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,256MB,1.7,769$
+893,Lenovo,SSD,HD Graphics 620,Intel,No OS,Intel,14,2.7,8 MB,256MB,1.7,659$
+894,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,4 MB,128MB,1.7,659$
+895,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.68,978$
+896,Asus,HDD,Radeon R5 M420,AMD,Windows 10,AMD,15.6,3,4 MB,1000MB,1.68,516$
+897,Acer,Flash,HD Graphics 400,Intel,Chrome OS,Intel,14,1.6,4 MB,32MB,1.68,384$
+898,Acer,Flash,HD Graphics 400,Intel,Chrome OS,Intel,14,1.6,2 MB,32MB,1.68,363$
+899,Lenovo,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,8 MB,256MB,1.65,1612$
+900,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.65,1480$
+901,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2,4 MB,500MB,1.65,934$
+902,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2,4 MB,128MB,1.65,758$
+903,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,14.1,1.1,4 MB,32MB,1.65,383$
+904,Asus,SSD,Radeon R2,AMD,Windows 10 S,AMD,14,1.5,4 MB,64MB,1.65,306$
+905,Asus,Flash,Radeon R2,AMD,Windows 10,AMD,14,1.5,2 MB,32MB,1.65,219$
+906,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.64,1408$
+907,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,14,2.7,8 MB,256MB,1.64,1304$
+908,Dell,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,14,2.8,8 MB,256MB,1.64,1297$
+909,Dell,SSD,GeForce 930MX,Nvidia,Linux,Intel,14,2.8,8 MB,256MB,1.64,1198$
+910,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,14,2.5,8 MB,256MB,1.64,1154$
+911,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.64,1112$
+912,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,256MB,1.64,1070$
+913,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,500MB,1.64,857$
+914,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.4,4 MB,500MB,1.64,752$
+915,Asus,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15.6,2.7,16 MB,512MB,1.63,1615$
+916,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.8,8 MB,512MB,1.63,1192$
+917,HP,SSD,GeForce 930MX,Nvidia,Windows 10,Intel,14,1.8,8 MB,256MB,1.63,1134$
+918,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.8,8 MB,256MB,1.63,1087$
+919,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.63,946$
+920,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,1000MB,1.63,893$
+921,Dell,SSD,HD Graphics 505,Intel,Windows 10,Intel,11.6,1.1,4 MB,128MB,1.63,818$
+922,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,4 MB,500MB,1.63,794$
+923,HP,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,14,2.4,4 MB,128MB,1.63,769$
+924,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,15.6,2,4 MB,128MB,1.63,758$
+925,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.63,329$
+926,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,16 MB,512MB,1.62,1407$
+927,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.62,956$
+928,Dell,HDD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,1000MB,1.62,923$
+929,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.62,901$
+930,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.62,878$
+931,Dell,HDD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,1000MB,1.62,714$
+932,MSI,Hybrid,GeForce GTX 1060,Nvidia,Windows 10,Intel,14,2.8,16 MB,256MB,1.6,2080$
+933,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.8,8 MB,256MB,1.6,1859$
+934,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,12 MB,256MB,1.6,1429$
+935,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.8,8 MB,256MB,1.6,1326$
+936,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.6,1319$
+937,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.6,1264$
+938,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.6,1239$
+939,Dell,SSD,HD Graphics 620 ,Intel,Windows 10,Intel,14,2.5,8 MB,128MB,1.6,1231$
+940,Dell,SSD,HD Graphics 620,Intel,Linux,Intel,14,2.8,8 MB,256MB,1.6,1209$
+941,Acer,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.6,1099$
+942,Acer,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.8,8 MB,256MB,1.6,972$
+943,Dell,HDD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,500MB,1.6,963$
+944,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.6,945$
+945,Acer,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.6,868$
+946,Acer,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.6,847$
+947,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2,4 MB,128MB,1.6,809$
+948,Acer,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.6,758$
+949,Acer,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,4 MB,128MB,1.6,721$
+950,Acer,Flash,HD Graphics 405,Intel,Windows 10,Intel,14,1.6,4 MB,128MB,1.6,384$
+951,Acer,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.6,362$
+952,Lenovo,SSD,HD Graphics 500,Intel,Windows 10,Intel,11.6,1.1,4 MB,128MB,1.59,608$
+953,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.58,1628$
+954,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.58,920$
+955,HP,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,14,2.5,6 MB,256MB,1.58,725$
+956,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.4,8 MB,256MB,1.56,1352$
+957,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,256MB,1.56,1154$
+958,Acer,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.56,992$
+959,Dell,HDD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,1000MB,1.55,725$
+960,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.5,8 MB,256MB,1.54,2418$
+961,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.54,2076$
+962,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.5,8 MB,512MB,1.54,2057$
+963,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,512MB,1.54,1615$
+964,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,4 MB,256MB,1.54,1210$
+965,HP,HDD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,4 MB,500MB,1.54,1134$
+966,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,500MB,1.54,1100$
+967,Lenovo,SSD,GeForce 920M,Nvidia,Windows 10,Intel,15.6,2.7,6 MB,256MB,1.54,914$
+968,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.5,2159$
+969,Dell,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.3,8 MB,256MB,1.5,1554$
+970,Asus,Hybrid,GeForce MX150,Nvidia,Windows 10,Intel,15.6,1.8,16 MB,256MB,1.5,1388$
+971,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.5,1331$
+972,Dell,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.3,4 MB,128MB,1.5,1284$
+973,Dell,HDD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.3,4 MB,500MB,1.5,1249$
+974,Lenovo,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,14,2.5,8 MB,256MB,1.5,1209$
+975,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.5,1070$
+976,Acer,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.5,932$
+977,Lenovo,SSD,Radeon R7 M460,AMD,No OS,Intel,14,2.7,8 MB,512MB,1.5,879$
+978,Asus,HDD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,6 MB,1000MB,1.5,703$
+979,Acer,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.4,8 MB,128MB,1.5,681$
+980,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.4,4 MB,128MB,1.5,604$
+981,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,11.6,1.1,4 MB,32MB,1.5,413$
+982,Lenovo,Flash,HD Graphics 400,Intel,Chrome OS,Intel,14,1.6,4 MB,16MB,1.5,358$
+983,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.5,328$
+984,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.5,315$
+985,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.5,306$
+986,Lenovo,Flash,HD Graphics,Intel,Windows 10,Intel,14,1.6,2 MB,64MB,1.5,252$
+987,Lenovo,Flash,HD Graphics,Intel,Windows 10,Intel,14,1.6,2 MB,64MB,1.5,252$
+988,Lenovo,Flash,HD Graphics,Intel,Windows 10,Intel,14,1.6,2 MB,64MB,1.5,252$
+989,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,16 MB,512MB,1.49,1317$
+990,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,512MB,1.49,1213$
+991,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.49,1199$
+992,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.49,1056$
+993,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,512MB,1.49,1055$
+994,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.4,4 MB,500MB,1.49,880$
+995,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,4 MB,500MB,1.49,829$
+996,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,4 MB,128MB,1.49,799$
+997,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.4,4 MB,128MB,1.49,791$
+998,HP,HDD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,4 MB,500MB,1.49,743$
+999,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,512MB,1.48,2298$
+1000,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.6,8 MB,512MB,1.48,2245$
+1001,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.6,8 MB,256MB,1.48,1979$
+1002,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.8,8 MB,1000MB,1.48,1924$
+1003,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.4,8 MB,256MB,1.48,1792$
+1004,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,256MB,1.48,1749$
+1005,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.48,1421$
+1006,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.48,1395$
+1007,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.4,4 MB,256MB,1.48,1210$
+1008,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,4 MB,256MB,1.48,1190$
+1009,Toshiba,SSD,GeForce 930M,Nvidia,Windows 10,Intel,14,2.6,16 MB,512MB,1.47,1940$
+1010,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.47,1898$
+1011,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,256MB,1.47,1639$
+1012,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,4 MB,128MB,1.47,1216$
+1013,Dell,HDD,HD Graphics 405,Intel,Windows 10,Intel,11.6,1.6,4 MB,500MB,1.47,527$
+1014,Asus,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.45,1408$
+1015,Asus,SSD,GeForce 940M,Nvidia,Windows 10,Intel,13.3,2.3,8 MB,512MB,1.45,1129$
+1016,HP,SSD,HD Graphics 505,Intel,Windows 10,Intel,11.6,1.1,4 MB,256MB,1.45,853$
+1017,Lenovo,Flash,HD Graphics 510,Intel,Chrome OS,Intel,13.3,1.6,4 MB,16MB,1.45,506$
+1018,Mediacom,SSD,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.45,428$
+1019,Acer,Flash,HD Graphics 510,Intel,Chrome OS,Intel,14,1.6,4 MB,32MB,1.45,413$
+1020,Vero,Flash,HD Graphics 400,Intel,Windows 10,Intel,14,1.44,2 MB,32MB,1.45,232$
+1021,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.44,1056$
+1022,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.44,1044$
+1023,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,4 MB,128MB,1.44,969$
+1024,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.4,4 MB,180MB,1.44,809$
+1025,Lenovo,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.44,321$
+1026,HP,Flash,HD Graphics 400,Intel,Windows 10,Intel,14,1.6,2 MB,32MB,1.44,307$
+1027,HP,Flash,HD Graphics 400,Intel,Windows 10,Intel,14,1.6,2 MB,32MB,1.44,274$
+1028,Lenovo,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,64MB,1.44,274$
+1029,HP,SSD,HD Graphics 400,Intel,Windows 10,Intel,14,1.6,4 MB,32MB,1.44,252$
+1030,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.43,2452$
+1031,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,8 MB,256MB,1.43,1664$
+1032,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.43,1650$
+1033,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.3,8 MB,256MB,1.43,1616$
+1034,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.6,8 MB,256MB,1.43,1594$
+1035,Lenovo,Flash,HD Graphics,Intel,Windows 10,Intel,14,1.6,4 MB,32MB,1.43,301$
+1036,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,1000MB,1.42,3106$
+1037,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.42,2849$
+1038,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,512MB,1.42,2760$
+1039,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.42,2563$
+1040,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.42,2026$
+1041,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,256MB,1.42,1539$
+1042,Lenovo,Flash,HD Graphics 400,Intel,Windows 10,Intel,14,1.6,2 MB,32MB,1.42,274$
+1043,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.41,1044$
+1044,Lenovo,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.6,12 MB,512MB,1.4,2529$
+1045,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.9,1.8,16 MB,512MB,1.4,2309$
+1046,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,12 MB,256MB,1.4,2044$
+1047,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.9,1.8,16 MB,512MB,1.4,2034$
+1048,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,12 MB,256MB,1.4,1840$
+1049,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.9,1.6,8 MB,256MB,1.4,1759$
+1050,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,512MB,1.4,1649$
+1051,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.4,1265$
+1052,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.4,1111$
+1053,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.4,1051$
+1054,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.4,8 MB,256MB,1.4,1044$
+1055,Asus,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.6,8 MB,256MB,1.4,1035$
+1056,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.4,1025$
+1057,Dell,SSD,Radeon 530,AMD,Windows 10,Intel,13.3,1.6,4 MB,256MB,1.4,900$
+1058,HP,Flash,HD Graphics 500,Intel,Chrome OS,Intel,11.6,1.1,4 MB,32MB,1.4,677$
+1059,HP,Flash,HD Graphics 500,Intel,Chrome OS,Intel,11.6,1.1,8 MB,64MB,1.4,545$
+1060,Acer,Flash,HD Graphics 405,Intel,Windows 10,Intel,11.6,1.6,4 MB,128MB,1.4,534$
+1061,Lenovo,SSD,HD Graphics 400,Intel,Windows 10,Intel,11.6,1.6,4 MB,128MB,1.4,523$
+1062,Chuwi,Flash,HD Graphics 500,Intel,Windows 10,Intel,12.3,1.1,6 MB,64MB,1.4,494$
+1063,Acer,SSD,HD Graphics 400,Intel,Windows 10,Intel,11.6,1.6,4 MB,128MB,1.4,479$
+1064,Acer,Flash,HD Graphics,Intel,Windows 10,Intel,11.6,1.6,4 MB,32MB,1.4,296$
+1065,Mediacom,HDD,HD Graphics 400,Intel,Windows 10,Intel,14,1.92,4 MB,32MB,1.4,292$
+1066,Mediacom,SSD,HD Graphics,Intel,Windows 10,Intel,14,1.44,4 MB,32MB,1.4,274$
+1067,Mediacom,Flash,HD Graphics,Intel,Windows 10,Intel,14,1.44,2 MB,32MB,1.4,263$
+1068,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.39,1264$
+1069,Dell,SSD,HD Graphics 615,Intel,Windows 10,Intel,11.6,1,4 MB,128MB,1.39,663$
+1070,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,512MB,1.38,1924$
+1071,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.9,2.7,8 MB,256MB,1.38,1484$
+1072,HP,SSD,GeForce MX150,Nvidia,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.38,1231$
+1073,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.9,2.7,8 MB,256MB,1.38,1187$
+1074,Apple,SSD,Iris Plus Graphics 650,Intel,macOS,Intel,13.3,3.1,8 MB,512MB,1.37,2244$
+1075,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,512MB,1.37,2228$
+1076,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,512MB,1.37,2167$
+1077,Apple,SSD,Iris Graphics 550,Intel,macOS,Intel,13.3,2.9,8 MB,512MB,1.37,2155$
+1078,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.37,2145$
+1079,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.9,1.8,8 MB,512MB,1.37,2034$
+1080,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,512MB,1.37,2008$
+1081,Apple,SSD,Iris Plus Graphics 650,Intel,macOS,Intel,13.3,3.1,8 MB,256MB,1.37,1984$
+1082,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.37,1933$
+1083,Apple,SSD,Iris Plus Graphics 640,Intel,macOS,Intel,13.3,2.3,8 MB,256MB,1.37,1670$
+1084,Apple,SSD,Iris Graphics 540,Intel,macOS,Intel,13.3,2,8 MB,256MB,1.37,1561$
+1085,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.37,1539$
+1086,Apple,SSD,Iris Plus Graphics 640,Intel,macOS,Intel,13.3,2.3,8 MB,128MB,1.37,1474$
+1087,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,16 MB,512MB,1.36,2749$
+1088,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,16 MB,512MB,1.36,2065$
+1089,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,16 MB,512MB,1.36,1978$
+1090,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.8,8 MB,256MB,1.36,1953$
+1091,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.6,8 MB,256MB,1.36,1936$
+1092,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.36,1925$
+1093,Dell,SSD,HD Graphics,Intel,Windows 10,Intel,14,2.8,8 MB,512MB,1.36,1848$
+1094,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,8 MB,256MB,1.36,1815$
+1095,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.36,1803$
+1096,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.3,8 MB,256MB,1.36,1801$
+1097,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,8 MB,256MB,1.36,1742$
+1098,Dell,SSD,HD Graphics,Intel,Windows 10,Intel,12.5,2.5,8 MB,256MB,1.36,1619$
+1099,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.5,8 MB,256MB,1.36,1572$
+1100,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.36,
+1101,Apple,Flash,HD Graphics 6000,Intel,Mac OS X,Intel,13.3,1.6,8 MB,128MB,1.35,1209$
+1102,Apple,Flash,HD Graphics 6000,Intel,Mac OS X,Intel,13.3,1.6,8 MB,256MB,1.35,1098$
+1103,Acer,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,32MB,1.35,391$
+1104,Mediacom,Flash,HD Graphics,Intel,Windows 10,Intel,13.3,1.44,4 MB,32MB,1.35,281$
+1105,Vero,Flash,HD Graphics 400,Intel,Windows 10,Intel,13.3,1.44,4 MB,32MB,1.35,216$
+1106,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.5,8 MB,256MB,1.34,1837$
+1107,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,512MB,1.34,1455$
+1108,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.34,1308$
+1109,Apple,Flash,HD Graphics 6000,Intel,macOS,Intel,13.3,1.8,8 MB,256MB,1.34,1275$
+1110,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.34,1260$
+1111,Apple,Flash,HD Graphics 6000,Intel,macOS,Intel,13.3,1.8,8 MB,128MB,1.34,989$
+1112,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,24 MB,512MB,1.32,2620$
+1113,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.32,2045$
+1114,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.32,1979$
+1115,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.6,8 MB,256MB,1.32,1815$
+1116,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.32,1649$
+1117,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.32,1539$
+1118,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,4 MB,256MB,1.32,769$
+1119,Samsung,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.31,1759$
+1120,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,512MB,1.3,2254$
+1121,Lenovo,SSD,Iris Graphics 540,Intel,Windows 10,Intel,13.3,2.2,16 MB,1000MB,1.3,1979$
+1122,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.5,8 MB,256MB,1.3,1885$
+1123,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.5,16 MB,512MB,1.3,1815$
+1124,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,16 MB,512MB,1.3,1649$
+1125,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,16 MB,512MB,1.3,1649$
+1126,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,16 MB,512MB,1.3,1649$
+1127,Asus,SSD,GeForce MX150,Nvidia,Windows 10,Intel,14,1.8,16 MB,512MB,1.3,1645$
+1128,Dell,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.3,1395$
+1129,Lenovo,SSD,HD Graphics 540,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.3,1319$
+1130,Asus,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,14,2.7,8 MB,256MB,1.3,1312$
+1131,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.3,8 MB,180MB,1.3,1209$
+1132,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.3,1137$
+1133,Xiaomi,SSD,GeForce MX150,Nvidia,No OS,Intel,13.3,2.5,8 MB,256MB,1.3,1100$
+1134,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.4,4 MB,128MB,1.3,560$
+1135,Vero,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.3,286$
+1136,Acer,SSD,HD Graphics,Intel,Chrome OS,Intel,11.6,1.5,2 MB,32MB,1.3,191$
+1137,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,16 MB,1000MB,1.29,2694$
+1138,Dell,SSD,Iris Plus Graphics 640,Intel,Windows 10,Intel,13.3,2.5,16 MB,512MB,1.29,2464$
+1139,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,512MB,1.29,2199$
+1140,Razer,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.5,16 MB,512MB,1.29,1979$
+1141,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.29,1786$
+1142,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.29,1649$
+1143,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.29,1649$
+1144,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.29,1625$
+1145,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.29,1604$
+1146,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,128MB,1.29,989$
+1147,HP,Flash,HD Graphics 515,Intel,Chrome OS,Intel,13.3,1.5,4 MB,32MB,1.29,677$
+1148,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.8,8 MB,256MB,1.28,2815$
+1149,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.28,2505$
+1150,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.8,16 MB,256MB,1.28,2173$
+1151,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,4 MB,256MB,1.28,1979$
+1152,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,4 MB,256MB,1.28,1870$
+1153,Xiaomi,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.28,1029$
+1154,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.27,2573$
+1155,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.27,1021$
+1156,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.5,8 MB,256MB,1.26,2527$
+1157,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.4,8 MB,256MB,1.26,2085$
+1158,Dell,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.4,8 MB,256MB,1.26,1885$
+1159,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.3,8 MB,256MB,1.26,1836$
+1160,HP,HDD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.3,4 MB,500MB,1.26,1737$
+1161,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.5,4 MB,256MB,1.26,1715$
+1162,HP,HDD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.5,4 MB,500MB,1.26,1693$
+1163,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,8 MB,512MB,1.26,1631$
+1164,HP,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.26,1539$
+1165,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.6,8 MB,256MB,1.26,1528$
+1166,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.5,8 MB,256MB,1.26,1484$
+1167,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,8 MB,256MB,1.26,1469$
+1168,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.3,4 MB,256MB,1.26,1368$
+1169,HP,SSD,HD Graphics 520,Intel,Windows 7,Intel,12.5,2.3,8 MB,256MB,1.26,1319$
+1170,Dell,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,16MB,1.26,325$
+1171,Microsoft,SSD,Iris Plus Graphics 640,Intel,Windows 10 S,Intel,13.5,2.8,8 MB,256MB,1.252,2055$
+1172,Microsoft,SSD,HD Graphics 620,Intel,Windows 10 S,Intel,13.5,2.5,8 MB,256MB,1.252,1474$
+1173,Microsoft,SSD,HD Graphics 620,Intel,Windows 10 S,Intel,13.5,2.5,4 MB,128MB,1.252,1198$
+1174,Microsoft,SSD,HD Graphics 615,Intel,Windows 10 S,Intel,13.5,2.2,4 MB,128MB,1.252,1088$
+1175,Microsoft,SSD,Iris Plus Graphics 640,Intel,Windows 10 S,Intel,13.5,2.5,16 MB,512MB,1.25,2848$
+1176,Microsoft,SSD,Iris Plus Graphics 640,Intel,Windows 10 S,Intel,13.5,2.5,8 MB,256MB,1.25,1979$
+1177,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.25,1689$
+1178,Asus,SSD,UHD Graphics 620,Intel,Windows 10,Intel,14,1.8,8 MB,256MB,1.25,1209$
+1179,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,4 MB,128MB,1.25,1199$
+1180,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.25,1154$
+1181,Razer,SSD,HD Graphics 520,Intel,Windows 10,Intel,12.5,2.5,8 MB,256MB,1.25,1132$
+1182,Acer,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,32MB,1.25,428$
+1183,Acer,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,32MB,1.25,417$
+1184,Acer,Flash,HD Graphics 500,Intel,Windows 10,Intel,11.6,2,4 MB,32MB,1.25,384$
+1185,Acer,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,32MB,1.25,327$
+1186,Lenovo,SSD,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,16MB,1.25,292$
+1187,Dell,SSD,HD Graphics 615,Intel,Windows 10,Intel,13.3,1.3,8 MB,512MB,1.24,2214$
+1188,Dell,SSD,HD Graphics 615,Intel,Windows 10,Intel,13.3,1.2,8 MB,256MB,1.24,2089$
+1189,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,512MB,1.24,2052$
+1190,Dell,SSD,HD Graphics 615,Intel,Windows 10,Intel,13.3,1.2,8 MB,256MB,1.24,1994$
+1191,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.23,2056$
+1192,Samsung,SSD,GeForce 940MX,Nvidia,Windows 10,Intel,15,2.7,16 MB,256MB,1.23,2034$
+1193,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.23,1539$
+1194,Dell,SSD,Iris Plus Graphics 640,Intel,Windows 10,Intel,13.3,2.4,8 MB,256MB,1.23,1517$
+1195,Dell,SSD,Iris Plus Graphics 640,Intel,Windows 10,Intel,13.3,2.4,8 MB,256MB,1.23,1517$
+1196,Dell,SSD,HD Graphics 520,Intel,Linux,Intel,13.3,2.4,8 MB,256MB,1.23,1209$
+1197,HP,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,16MB,1.23,424$
+1198,Dell,SSD,HD Graphics 615,Intel,Windows 10,Intel,13.3,1.3,16 MB,512MB,1.22,2089$
+1199,Dell,SSD,HD Graphics 615,Intel,Windows 10,Intel,13.3,1.3,16 MB,256MB,1.22,1814$
+1200,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,128MB,1.22,1077$
+1201,Vero,Flash,HD Graphics 500,Intel,Windows 10,Intel,14,1.1,4 MB,32MB,1.22,223$
+1202,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,16 MB,1000MB,1.21,2749$
+1203,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.21,2144$
+1204,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.21,1814$
+1205,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.21,1792$
+1206,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,128MB,1.21,1759$
+1207,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,512MB,1.2,2948$
+1208,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,1000MB,1.2,2479$
+1209,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,16 MB,512MB,1.2,2056$
+1210,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,16 MB,512MB,1.2,1922$
+1211,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.2,1749$
+1212,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.2,1737$
+1213,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.4,8 MB,256MB,1.2,1689$
+1214,Toshiba,SSD,HD Graphics 520,Intel,Windows 7,Intel,13.3,2.3,8 MB,256MB,1.2,1606$
+1215,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.2,1595$
+1216,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.2,1594$
+1217,Dell,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,256MB,1.2,1539$
+1218,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.2,1499$
+1219,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.2,1334$
+1220,Toshiba,SSD,HD Graphics 520,Intel,Windows 7,Intel,13.3,2.3,4 MB,128MB,1.2,1315$
+1221,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,4 MB,128MB,1.2,1315$
+1222,Asus,Flash,HD Graphics 515,Intel,Chrome OS,Intel,12.5,1.2,8 MB,64MB,1.2,1275$
+1223,Acer,SSD,HD Graphics 615,Intel,Windows 10,Intel,14,1.3,8 MB,256MB,1.2,1264$
+1224,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.2,1242$
+1225,Toshiba,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.2,1205$
+1226,Asus,SSD,HD Graphics 515,Intel,Windows 10,Intel,13.3,0.9,8 MB,512MB,1.2,802$
+1227,Asus,SSD,HD Graphics 515,Intel,Windows 10,Intel,13.3,0.9,8 MB,512MB,1.2,802$
+1228,Asus,SSD,HD Graphics 515,Intel,Windows 10,Intel,13.3,0.9,8 MB,512MB,1.2,802$
+1229,Asus,Flash,HD Graphics 515,Intel,Chrome OS,Intel,12.5,0.9,4 MB,64MB,1.2,736$
+1230,Mediacom,SSD,HD Graphics 500,Intel,Windows 10,Intel,13.3,1.1,4 MB,32MB,1.2,406$
+1231,Asus,Flash,HD Graphics 500,Intel,Windows 10 S,Intel,11.6,1.1,4 MB,64MB,1.2,374$
+1232,Asus,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,16MB,1.2,317$
+1233,Lenovo,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,512MB,1.19,1649$
+1234,Dell,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.8,16 MB,256MB,1.18,2045$
+1235,Samsung,SSD,HD Graphics 620,Intel,Windows 10,Intel,15,2.7,8 MB,256MB,1.17,1869$
+1236,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.5,8 MB,512MB,1.17,1855$
+1237,HP,Flash,HD Graphics 400,Intel,Windows 10,Intel,11.6,1.6,2 MB,32MB,1.17,230$
+1238,HP,Flash,HD Graphics 400,Intel,Windows 10,Intel,11.6,1.6,2 MB,32MB,1.17,230$
+1239,HP,Flash,HD Graphics 400,Intel,Windows 10,Intel,11.6,1.6,2 MB,32MB,1.17,230$
+1240,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.5,8 MB,512MB,1.16,2166$
+1241,HP,SSD,HD Graphics 515,Intel,Windows 10,Intel,13.3,1.2,16 MB,512MB,1.16,2162$
+1242,HP,SSD,HD Graphics 515,Intel,Windows 10,Intel,13.3,1.1,8 MB,256MB,1.16,1869$
+1243,HP,SSD,HD Graphics 520,Intel,Windows 10,Intel,13.3,2.3,8 MB,256MB,1.16,1859$
+1244,Mediacom,SSD,HD Graphics 500,Intel,Windows 10,Intel,11.6,1.1,4 MB,32MB,1.16,329$
+1245,Lenovo,Flash,HD Graphics 500,Intel,Windows 10,Intel,11.6,1.1,2 MB,32MB,1.15,335$
+1246,Samsung,Flash,HD Graphics 400,Intel,Chrome OS,Intel,11.6,1.6,4 MB,16MB,1.15,296$
+1247,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,512MB,1.14,2695$
+1248,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,1000MB,1.13,2888$
+1249,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,512MB,1.13,2749$
+1250,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,512MB,1.13,2510$
+1251,Lenovo,Flash,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,256MB,1.13,2254$
+1252,Lenovo,Flash,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.13,2063$
+1253,Acer,SSD,HD Graphics 615,Intel,Windows 10,Intel,13.3,1.2,8 MB,256MB,1.12,1088$
+1254,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,8 MB,256MB,1.11,1484$
+1255,HP,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.11,1264$
+1256,Lenovo,SSD,HD Graphics 520,Intel,Windows 7,Intel,14,2.6,16 MB,256MB,1.1,2882$
+1257,Google,SSD,HD Graphics 615,Intel,Chrome OS,Intel,12.3,1.3,16 MB,512MB,1.1,2419$
+1258,Lenovo,SSD,HD Graphics 520,Intel,Windows 10,Intel,14,2.6,16 MB,512MB,1.1,2309$
+1259,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,16 MB,512MB,1.1,2090$
+1260,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,512MB,1.1,2060$
+1261,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,8 MB,512MB,1.1,1969$
+1262,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,512MB,1.1,1924$
+1263,Google,SSD,HD Graphics 615,Intel,Chrome OS,Intel,12.3,1.2,8 MB,256MB,1.1,1715$
+1264,Asus,SSD,UHD Graphics 620,Intel,Windows 10,Intel,13.3,1.8,8 MB,512MB,1.1,1649$
+1265,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.1,1494$
+1266,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,1.6,8 MB,256MB,1.1,1447$
+1267,Lenovo,SSD,HD Graphics 515,Intel,Windows 10,Intel,11.3,1.2,8 MB,256MB,1.1,1429$
+1268,Google,SSD,HD Graphics 615,Intel,Chrome OS,Intel,12.3,1.2,8 MB,128MB,1.1,1403$
+1269,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.5,8 MB,256MB,1.1,1249$
+1270,Lenovo,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.1,1099$
+1271,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,11.6,1.1,2 MB,32MB,1.1,303$
+1272,Asus,Flash,HD Graphics 500,Intel,Windows 10,Intel,11.6,1.1,2 MB,32MB,1.1,270$
+1273,HP,SSD,HD Graphics 515,Intel,Windows 10,Intel,12.5,1.2,8 MB,240MB,1.09,3410$
+1274,LG,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,1.8,8 MB,512MB,1.09,2529$
+1275,LG,SSD,HD Graphics 620,Intel,Windows 10,Intel,15.6,2.7,16 MB,512MB,1.08,2309$
+1276,Apple,Flash,HD Graphics 6000,Intel,Mac OS X,Intel,11.6,1.6,4 MB,256MB,1.08,1055$
+1277,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,32 MB,512MB,1.05,3079$
+1278,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,512MB,1.05,2449$
+1279,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.05,1839$
+1280,Huawei,SSD,HD Graphics 620,Intel,Windows 10,Intel,13,2.7,8 MB,512MB,1.05,1649$
+1281,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,1.05,1623$
+1282,Huawei,SSD,HD Graphics 620,Intel,Windows 10,Intel,13,2.5,8 MB,256MB,1.05,1484$
+1283,Toshiba,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,4 MB,128MB,1.05,1414$
+1284,Lenovo,SSD,HD Graphics 515,Intel,Windows 10,Intel,12.5,1.2,8 MB,512MB,0.99,1539$
+1285,LG,SSD,HD Graphics 620,Intel,Windows 10,Intel,14,2.7,8 MB,512MB,0.98,2089$
+1286,Asus,Flash,HD Graphics 400,Intel,Windows 10,Intel,11.6,1.44,2 MB,32MB,0.98,211$
+1287,HP,SSD,HD Graphics 515,Intel,Windows 10,Intel,12.5,1.2,8 MB,512MB,0.97,2215$
+1288,HP,SSD,HD Graphics 515,Intel,Windows 10,Intel,12.5,1.2,8 MB,512MB,0.97,2099$
+1289,Apple,SSD,HD Graphics 615,Intel,macOS,Intel,12,1.3,8 MB,512MB,0.92,1661$
+1290,Apple,Flash,HD Graphics 515,Intel,Mac OS X,Intel,12,1.1,8 MB,256MB,0.92,1430$
+1291,Apple,Flash,HD Graphics 515,Intel,Mac OS X,Intel,12,1.2,8 MB,512MB,0.92,1407$
+1292,Apple,SSD,HD Graphics 615,Intel,macOS,Intel,12,1.2,8 MB,256MB,0.92,1389$
+1293,Apple,Flash,HD Graphics 5300,Intel,Mac OS X,Intel,12,1.2,8 MB,512MB,0.92,1282$
+1294,Apple,Flash,HD Graphics 5300,Intel,Mac OS X,Intel,12,1.1,8 MB,256MB,0.92,1279$
+1295,Asus,SSD,HD Graphics 620,Intel,Windows 10,Intel,12.5,2.7,16 MB,512MB,0.91,
+1296,Samsung,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.7,16 MB,256MB,0.81,1814$
+1297,Samsung,SSD,HD Graphics 620,Intel,Windows 10,Intel,13.3,2.5,8 MB,256MB,0.81,1649$
+1298,Lenovo,Flash,HD Graphics 400,Intel,Windows 10,Intel,10.1,1.44,4 MB,64MB,0.69,711$
+1299,Lenovo,Flash,HD Graphics 400,Intel,Android,Intel,10.1,1.44,4 MB,64MB,0.69,604$
+1300,Lenovo,Flash,HD Graphics 400,Intel,Windows 10,Intel,10.1,1.44,4 MB,64MB,0.69,527$
+1301,Lenovo,Flash,HD Graphics 400,Intel,Android,Intel,10.1,1.44,4 MB,64MB,0.69,351$
